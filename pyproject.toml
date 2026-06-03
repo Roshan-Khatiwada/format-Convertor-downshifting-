@@ -1,0 +1,69 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pdf-to-json"
+version = "1.0.0"
+description = "Production-grade PDF-to-JSON extraction for CTD/eCTD dossiers and technical documents"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+keywords = ["pdf", "json", "extraction", "ctd", "ectd", "pharmaceutical", "dossier", "nlp", "rag"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Healthcare Industry",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Text Processing",
+]
+
+dependencies = [
+    "PyMuPDF>=1.23.0",
+    "pdfplumber>=0.10.0",
+    "pypdf>=4.0.0",
+    "pytesseract>=0.3.10",
+    "Pillow>=10.0.0",
+    "python-dotenv>=1.0.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "tqdm>=4.65.0",
+]
+
+[project.optional-dependencies]
+paddle = [
+    "paddlepaddle>=2.5.0",
+    "PaddleOCR>=2.7.0",
+]
+camelot = [
+    "camelot-py[cv]>=0.11.0",
+]
+all = [
+    "paddlepaddle>=2.5.0",
+    "PaddleOCR>=2.7.0",
+    "camelot-py[cv]>=0.11.0",
+]
+
+[project.scripts]
+pdf-to-json = "main:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.10"
+strict = false
+ignore_missing_imports = true

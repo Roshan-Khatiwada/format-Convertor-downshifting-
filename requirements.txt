@@ -1,0 +1,19 @@
+# ── Core PDF processing ────────────────────────────────────────────────────
+PyMuPDF>=1.23.0           # Layout-aware extraction, image extraction, rendering
+pdfplumber>=0.10.0        # Table extraction, text with coordinates
+pypdf>=4.0.0              # PDF metadata, form fields
+
+# ── OCR (optional — install as needed) ────────────────────────────────────
+# PaddleOCR>=2.7.0        # Best layout-preserving OCR (uncomment to enable)
+# paddlepaddle>=2.5.0     # Required by PaddleOCR
+pytesseract>=0.3.10       # Tesseract OCR fallback
+Pillow>=10.0.0            # Image handling (required by pytesseract)
+
+# ── Table extraction (optional) ────────────────────────────────────────────
+# camelot-py[cv]>=0.11.0  # Lattice/stream table extraction (uncomment to enable)
+
+# ── Utilities ─────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0      # .env configuration
+pandas>=2.0.0             # Tesseract TSV output parsing
+numpy>=1.24.0             # PaddleOCR array handling (also used by pandas)
+tqdm>=4.65.0              # Progress bars

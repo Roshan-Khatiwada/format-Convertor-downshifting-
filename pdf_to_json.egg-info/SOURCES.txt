@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+pdf_to_json.egg-info/PKG-INFO
+pdf_to_json.egg-info/SOURCES.txt
+pdf_to_json.egg-info/dependency_links.txt
+pdf_to_json.egg-info/entry_points.txt
+pdf_to_json.egg-info/requires.txt
+pdf_to_json.egg-info/top_level.txt
+src/__init__.py
+src/config.py
+src/extractor.py
+src/figure_extractor.py
+src/json_builder.py
+src/ocr.py
+src/section_detector.py
+src/table_extractor.py
+src/utils.py

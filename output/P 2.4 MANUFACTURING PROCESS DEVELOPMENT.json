@@ -1,0 +1,261 @@
+{
+  "section_code": "p2.4",
+  "dossier_type": "product",
+  "_instruction": "Generate P2.4 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "section_header",
+      "section_title": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg Film coated tablets 5 mg",
+      "section_number": null,
+      "sn": 1,
+      "content": null
+    },
+    {
+      "type": "section_header",
+      "section_title": "MANUFACTURING PROCESS DEVELOPMENT",
+      "section_number": "P 2.4",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "P 2.4 MANUFACTURING PROCESS DEVELOPMENT",
+      "sn": 3,
+      "content": "Confidential!\nPage 1"
+    },
+    {
+      "type": "text",
+      "section_title": "P 2.4 MANUFACTURING PROCESS DEVELOPMENT",
+      "sn": 4,
+      "content": "a. Manufacturing Process Flow Chart"
+    },
+    {
+      "type": "figure",
+      "sn": 5,
+      "page": 2,
+      "caption": null,
+      "content": {
+        "file": "output\\figures\\p_2.4_manufacturing_process_development_p1_1.png"
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 2.4 MANUFACTURING PROCESS DEVELOPMENT",
+      "sn": 6,
+      "content": "Confidential!\nPage 2"
+    },
+    {
+      "type": "text",
+      "section_title": "P 2.4 MANUFACTURING PROCESS DEVELOPMENT",
+      "sn": 7,
+      "content": "a. Manufacturing Process Flow"
+    },
+    {
+      "type": "text",
+      "section_title": "P 2.4 MANUFACTURING PROCESS DEVELOPMENT",
+      "sn": 8,
+      "content": "The manufacturing process for Solifenacin Succinate Tablets BP 5 mg involves several key stages, starting with the\nprecise weighing and dispensing of all raw materials. This is followed by the dry mixing of the active pharmaceutical\ningredient (API), diluents, and binder. Wet granulation is then performed by adding the binder solution. The resultant\ngranules are dried and subsequently sized to achieve the desired particle distribution. Lubrication is carried out by\nadding magnesium stearate before the core tablets are compressed. Finally, the compressed tablets undergo film\ncoating with a suspension containing Readycoat Iron Oxide Yellow, followed by drying of the coated tablets. The\nfinished product is then inspected and packaged."
+    },
+    {
+      "type": "text",
+      "section_title": "P 2.4 MANUFACTURING PROCESS DEVELOPMENT",
+      "sn": 9,
+      "content": "Table 1: Manufacturing Process Flow"
+    },
+    {
+      "type": "table",
+      "section_title": "P 2.4 MANUFACTURING PROCESS DEVELOPMENT",
+      "sn": 10,
+      "content": {
+        "columns": [
+          "STAGE",
+          "EQUIPMENT",
+          "CRITICAL PROCESS PARAMETER",
+          "IN PROCESS CONTROL"
+        ],
+        "rows": [
+          {
+            "STAGE": "Weighing and Dispensing",
+            "EQUIPMENT": "Weighing Booths, Dispensing Area",
+            "CRITICAL PROCESS PARAMETER": "Accuracy of weighing",
+            "IN PROCESS CONTROL": "Material reconciliation, visual inspection"
+          },
+          {
+            "STAGE": "Dry Mixing",
+            "EQUIPMENT": "V-Blender, Rapid Mixer Granulator (RMG)",
+            "CRITICAL PROCESS PARAMETER": "Mixing time, speed",
+            "IN PROCESS CONTROL": "Uniformity of blend (in-process sampling)"
+          },
+          {
+            "STAGE": "Wet Granulation",
+            "EQUIPMENT": "Rapid Mixer Granulator (RMG)",
+            "CRITICAL PROCESS PARAMETER": "Binder addition rate, granulation time, impeller speed",
+            "IN PROCESS CONTROL": "Granule size distribution, moisture content"
+          },
+          {
+            "STAGE": "Drying",
+            "EQUIPMENT": "Fluid Bed Dryer (FBD)",
+            "CRITICAL PROCESS PARAMETER": "Inlet air temperature, drying time, air flow rate",
+            "IN PROCESS CONTROL": "Loss on Drying (LOD) of granules"
+          },
+          {
+            "STAGE": "Sizing",
+            "EQUIPMENT": "Multi Mill, Vibratory Sieve",
+            "CRITICAL PROCESS PARAMETER": "Screen size, mill speed",
+            "IN PROCESS CONTROL": "Granule size distribution"
+          },
+          {
+            "STAGE": "Lubrication",
+            "EQUIPMENT": "V-Blender",
+            "CRITICAL PROCESS PARAMETER": "Lubrication time, speed",
+            "IN PROCESS CONTROL": "Homogeneity of blend"
+          },
+          {
+            "STAGE": "Compression",
+            "EQUIPMENT": "Rotary Tablet Press",
+            "CRITICAL PROCESS PARAMETER": "Compression force, turret speed, die fill",
+            "IN PROCESS CONTROL": "Tablet weight, hardness, thickness, friability"
+          },
+          {
+            "STAGE": "Film Coating",
+            "EQUIPMENT": "Coating Pan",
+            "CRITICAL PROCESS PARAMETER": "Spray rate, atomization pressure, inlet air temperature, pan speed, coating time",
+            "IN PROCESS CONTROL": "Tablet appearance, weight gain, coating uniformity"
+          },
+          {
+            "STAGE": "Drying (Coated Tablets)",
+            "EQUIPMENT": "Coating Pan",
+            "CRITICAL PROCESS PARAMETER": "Drying time, air temperature",
+            "IN PROCESS CONTROL": "Surface dryness"
+          },
+          {
+            "STAGE": "Inspection and Packaging",
+            "EQUIPMENT": "Inspection Belt, Blister Packing Machine",
+            "CRITICAL PROCESS PARAMETER": "Visual inspection standards, packaging material integrity",
+            "IN PROCESS CONTROL": "Tablet defects, pack count, seal integrity"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 2.4 MANUFACTURING PROCESS DEVELOPMENT",
+      "sn": 11,
+      "content": "Confidential!\nPage 3"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg Film coated tablets 5 mg",
+      "section_number": null,
+      "sn": 12,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg Film coated tablets 5 mg",
+      "sn": 13,
+      "content": "b. Process Description"
+    },
+    {
+      "type": "text",
+      "section_title": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg Film coated tablets 5 mg",
+      "sn": 14,
+      "content": "The manufacturing process for Solifenacin Succinate Tablets BP 5 mg is a multi-stage operation designed to ensure\nproduct quality and consistency. Initially, all raw materials, including Solifenacin Succinate, Lactose Monohydrate,\nMaize Starch, Hypromellose, and Magnesium Stearate, are accurately weighed and dispensed according to the\nvalidated batch formula. The API, diluents, and binder (Maize Starch) are then subjected to dry mixing in a V-Blender\nor Rapid Mixer Granulator (RMG) to ensure homogeneity. Subsequently, wet granulation is performed in the RMG by\nadding a binder solution prepared with Hypromellose and Purified Water. The wet mass is then dried in a Fluid Bed\nDryer (FBD) to achieve the specified Loss on Drying (LOD). The dried granules are milled to obtain a uniform\nparticle size distribution. Following milling, Magnesium Stearate is added for lubrication in a V-Blender. The\nlubricated blend is then compressed into core tablets using a Rotary Tablet Press. The core tablets are subsequently\nfilm-coated in a Coating Pan using a suspension of Readycoat Iron Oxide Yellow in Purified Water. The coated tablets\nare dried to ensure proper film formation. Finally, the finished tablets undergo visual inspection for any defects and\nare then packaged into ALU/ALU blister packs."
+    },
+    {
+      "type": "text",
+      "section_title": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg Film coated tablets 5 mg",
+      "sn": 15,
+      "content": "Confidential!\nPage 4"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg Film coated tablets 5 mg",
+      "section_number": null,
+      "sn": 16,
+      "content": null
+    },
+    {
+      "type": "section_header",
+      "section_title": "c. Critical Process Parameters",
+      "section_number": null,
+      "sn": 17,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "c. Critical Process Parameters",
+      "sn": 18,
+      "content": "Critical Process Parameters (CPPs) have been identified and controlled throughout the manufacturing process to\nensure the consistent quality of Solifenacin Succinate Tablets BP 5 mg. These parameters, along with their associated\nin-process controls, are detailed in the following table. The development and validation of the process have confirmed\nthat controlling these CPPs within defined ranges ensures that the critical quality attributes (CQAs) of the final\nproduct, such as assay, dissolution, uniformity of dosage units, and impurity profile, are met."
+    },
+    {
+      "type": "text",
+      "section_title": "c. Critical Process Parameters",
+      "sn": 19,
+      "content": "Table 2: Critical Process Parameters"
+    },
+    {
+      "type": "table",
+      "section_title": "c. Critical Process Parameters",
+      "sn": 20,
+      "content": {
+        "columns": [
+          "STAGE",
+          "EQUIPMENT",
+          "CRITICAL PROCESS PARAMETER",
+          "IN PROCESS CONTROL"
+        ],
+        "rows": [
+          {
+            "STAGE": "Dry Mixing",
+            "EQUIPMENT": "V-Blender, RMG",
+            "CRITICAL PROCESS PARAMETER": "Mixing time, speed",
+            "IN PROCESS CONTROL": "Uniformity of blend (in-process sampling)"
+          },
+          {
+            "STAGE": "Wet Granulation",
+            "EQUIPMENT": "RMG",
+            "CRITICAL PROCESS PARAMETER": "Binder addition rate, granulation time, impeller speed",
+            "IN PROCESS CONTROL": "Granule size distribution, moisture content"
+          },
+          {
+            "STAGE": "Drying",
+            "EQUIPMENT": "FBD",
+            "CRITICAL PROCESS PARAMETER": "Inlet air temperature, drying time, air flow rate",
+            "IN PROCESS CONTROL": "Loss on Drying (LOD) of granules"
+          },
+          {
+            "STAGE": "Sizing",
+            "EQUIPMENT": "Multi Mill",
+            "CRITICAL PROCESS PARAMETER": "Screen size, mill speed",
+            "IN PROCESS CONTROL": "Granule size distribution"
+          },
+          {
+            "STAGE": "Lubrication",
+            "EQUIPMENT": "V-Blender",
+            "CRITICAL PROCESS PARAMETER": "Lubrication time, speed",
+            "IN PROCESS CONTROL": "Homogeneity of blend"
+          },
+          {
+            "STAGE": "Compression",
+            "EQUIPMENT": "Rotary Tablet Press",
+            "CRITICAL PROCESS PARAMETER": "Compression force, turret speed, die fill",
+            "IN PROCESS CONTROL": "Tablet weight, hardness, thickness, friability"
+          },
+          {
+            "STAGE": "Film Coating",
+            "EQUIPMENT": "Coating Pan",
+            "CRITICAL PROCESS PARAMETER": "Spray rate, atomization pressure, inlet air temperature, pan speed, coating time",
+            "IN PROCESS CONTROL": "Tablet appearance, weight gain, coating uniformity"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "c. Critical Process Parameters",
+      "sn": 21,
+      "content": "Confidential!\nPage 5"
+    }
+  ]
+}
