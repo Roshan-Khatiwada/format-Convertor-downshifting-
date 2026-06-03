@@ -1,0 +1,4 @@
+SECTION: P 2.5 — MICROBIOLOGICAL ATTRIBUTES (one PDF)
+
+SCOPE: Microbiological attributes only.
+SOURCE: technical_intelligence.p2.5.

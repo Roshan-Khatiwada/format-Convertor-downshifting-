@@ -1,0 +1,4 @@
+SECTION: P 5.6 — CHARACTERISATION OF IMPURITIES (one PDF)
+
+SCOPE: Compendial requirements or appropriate information from the manufacturer.
+SOURCE: technical_intelligence.p56.

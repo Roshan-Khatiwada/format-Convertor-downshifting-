@@ -1,0 +1,211 @@
+{
+  "section_code": "p4.1",
+  "dossier_type": "product",
+  "_instruction": "Generate P4.1 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Control of Excipients",
+      "section_number": "P 4",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "section_header",
+      "section_title": "Specifications and Certificate of analysis (of all excipients)\nAll the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are",
+      "section_number": "P 4.1",
+      "sn": 3,
+      "content": null
+    },
+    {
+      "type": "table",
+      "section_title": "P 4.1 Specifications and Certificate of analysis (of all excipients)\nAll the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are",
+      "sn": 4,
+      "content": {
+        "columns": [
+          "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are",
+          "column",
+          "column_1"
+        ],
+        "rows": [
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "compendial and have been analyzed as per the test methods mentioned in the respective",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "monographs.",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "The excipients used in Solifenacin Succinate Tablets BP 5 mg are enlisted below:",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "Sr. No.",
+            "column": "Ingredients",
+            "column_1": "Specifications"
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "1",
+            "column": "Lactose Monohydrate",
+            "column_1": "BP"
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "2",
+            "column": "Maize Starch",
+            "column_1": "BP"
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "3",
+            "column": "Hypromellose",
+            "column_1": "BP"
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "4",
+            "column": "Magnesium Stearate",
+            "column_1": "BP"
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "5",
+            "column": "Ready coat 36FO193220",
+            "column_1": "IH"
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "6",
+            "column": "Purified Water",
+            "column_1": "BP"
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "BP: British Pharmacopoeia",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "IH: In House",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "Specifications of excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "All the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are": "are enclosed herewith",
+            "column": "",
+            "column_1": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 4.1 Specifications and Certificate of analysis (of all excipients)\nAll the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are",
+      "sn": 5,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 4.1 Specifications and Certificate of analysis (of all excipients)\nAll the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are",
+      "sn": 6,
+      "content": "Page 1"
+    },
+    {
+      "type": "text",
+      "section_title": "P 4.1 Specifications and Certificate of analysis (of all excipients)\nAll the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are",
+      "sn": 7,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "section_title": "P 4.1 Specifications and Certificate of analysis (of all excipients)\nAll the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are",
+      "sn": 8,
+      "content": "Certificate of analysis\nThe excipients used in Solifenacin Succinate Tablets BP 5 mg are enlisted below:"
+    },
+    {
+      "type": "table",
+      "section_title": "P 4.1 Specifications and Certificate of analysis (of all excipients)\nAll the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are",
+      "sn": 9,
+      "content": {
+        "columns": [
+          "Sr. No.",
+          "Ingredients",
+          "Specifications"
+        ],
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Ingredients": "Lactose Monohydrate",
+            "Specifications": "BP"
+          },
+          {
+            "Sr. No.": "2",
+            "Ingredients": "Maize Starch",
+            "Specifications": "BP"
+          },
+          {
+            "Sr. No.": "3",
+            "Ingredients": "Hypromellose",
+            "Specifications": "BP"
+          },
+          {
+            "Sr. No.": "4",
+            "Ingredients": "Magnesium Stearate",
+            "Specifications": "BP"
+          },
+          {
+            "Sr. No.": "5",
+            "Ingredients": "Ready coat 36FO193220",
+            "Specifications": "IH"
+          },
+          {
+            "Sr. No.": "6",
+            "Ingredients": "Purified Water",
+            "Specifications": "BP"
+          },
+          {
+            "Sr. No.": "BP: British Pharmacopoeia",
+            "Ingredients": "",
+            "Specifications": ""
+          },
+          {
+            "Sr. No.": "IH: In House",
+            "Ingredients": "",
+            "Specifications": ""
+          },
+          {
+            "Sr. No.": "Certificate of analysis of excipients used in manufacturing of Solifenacin Succinate Tablets",
+            "Ingredients": "",
+            "Specifications": ""
+          },
+          {
+            "Sr. No.": "BP 5 mg are enclosed herewith",
+            "Ingredients": "",
+            "Specifications": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 4.1 Specifications and Certificate of analysis (of all excipients)\nAll the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are",
+      "sn": 10,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 4.1 Specifications and Certificate of analysis (of all excipients)\nAll the excipients used in manufacturing of Solifenacin Succinate Tablets BP 5 mg are",
+      "sn": 11,
+      "content": "Page 2"
+    }
+  ]
+}

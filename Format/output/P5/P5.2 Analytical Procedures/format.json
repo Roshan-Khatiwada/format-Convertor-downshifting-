@@ -1,0 +1,11 @@
+{
+  "section_code": "p5.2",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 5.2 ANALYTICAL PROCEDURES * (one PDF).",
+  "components": [
+    {"section_code": "P 5", "type": "section_header", "title": "CONTROL OF FINISHED PRODUCT", "section_number": "P 5", "section_title": "CONTROL OF FINISHED PRODUCT"},
+    {"section_code": "P 5.2", "type": "section_header", "title": "ANALYTICAL PROCEDURES", "section_number": "P 5.2", "section_title": "ANALYTICAL PROCEDURES"},
+    {"section_code": "analytical_procedures", "type": "text", "title": "Analytical procedures used for testing the finished product", "prompt": "ESSENCE: Analytical procedures for finished product testing *. CONTRACT: Method references (USP/BP/in-house), brief principle per test.", "section_number": "a", "section_title": "Analytical procedures used for testing the finished product"},
+    {"section_code": "methods", "type": "table", "columns": ["Test", "Method / reference", "Description"], "title": "Analytical procedures", "prompt": "ESSENCE: Table of tests and analytical procedures/method IDs from source.", "section_number": "b", "section_title": "Analytical procedures"}
+  ]
+}

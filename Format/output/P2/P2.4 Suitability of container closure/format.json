@@ -1,0 +1,22 @@
+{
+  "section_code": "p2.4",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 2.4: suitability of container closure for storage, shipping, and use (one PDF).",
+  "components": [
+    {
+      "section_code": "P 2.5",
+      "type": "section_header",
+      "title": "CONTAINER CLOSURE SYSTEM",
+      "section_number": "P 2.5",
+      "section_title": "CONTAINER CLOSURE SYSTEM"
+    },
+    {
+      "section_code": "suitability",
+      "type": "text",
+      "title": "Suitability of the container closure system",
+      "prompt": "ESSENCE: Suitability of the container closure system for storage, transportation (shipping), and use of the finished product. CONTRACT: Material, configuration, compatibility, moisture/light protection, child-resistance if stated. PRESENTATION: Plain text from source.",
+      "section_number": "a",
+      "section_title": "Suitability of the container closure system"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "section_code": "p5.6",
+  "dossier_type": "product",
+  "_instruction": "Generate P5.6 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Justification of Specification\nThe specification and test methods employed for analysis of Solifenacin Succinate Tablets\nBP 5 mg as per BP Methods.\nA tabulated summary of the justification of specification is provided in below mentioned\ntable",
+      "section_number": "P 5.6",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "table",
+      "section_title": "P 5.6 Justification of Specification\nThe specification and test methods employed for analysis of Solifenacin Succinate Tablets\nBP 5 mg as per BP Methods.\nA tabulated summary of the justification of specification is provided in below mentioned\ntable.",
+      "sn": 3,
+      "content": {
+        "columns": [
+          "Sr. No.",
+          "Tests",
+          "Specifications",
+          "Justification"
+        ],
+        "rows": [
+          {
+            "Sr. No.": "1.",
+            "Tests": "Description",
+            "Specifications": "Light yellow coloured, round shaped, film coated tablet, plain on both sides. Such 10 tablets packed in ALU/ALU Blister.",
+            "Justification": "The description of the Tablet is assessed visually to ensure compliance with the expected appearance."
+          },
+          {
+            "Sr. No.": "2.",
+            "Tests": "Identification By IR",
+            "Specifications": "The infrared absorption spectrum of the dried residue is concordant with the reference spectrum of Solifenacin succinate RS/WS.",
+            "Justification": "This test performed as per BP monograph"
+          },
+          {
+            "Sr. No.": "3.",
+            "Tests": "Average weight",
+            "Specifications": "153.00 mg ± 7.5% (141.53 mg to 164.48 mg)",
+            "Justification": "This test and associated limits are included to meet the requirements of BP Pharmacopoeia"
+          },
+          {
+            "Sr. No.": "4.",
+            "Tests": "Uniformity of weight",
+            "Specifications": "Not More than 2 tablets deviate from average weight by 7.5% None Tablet deviate from th average weight by more than 15%",
+            "Justification": "This test and associated limits are included to e meet the requirements of BP Pharmacopoeia"
+          },
+          {
+            "Sr. No.": "5.",
+            "Tests": "Content Uniformity",
+            "Specifications": "AV NMT 15",
+            "Justification": "This test and associated limits are included to meet the requirements of BP Pharmacopoeia"
+          },
+          {
+            "Sr. No.": "6.",
+            "Tests": "Hardness",
+            "Specifications": "NLT 3 Kp",
+            "Justification": "This test and associated limits are included to meet the requirements."
+          },
+          {
+            "Sr. No.": "7.",
+            "Tests": "Friability",
+            "Specifications": "NMT 1.0% w/w",
+            "Justification": "This test and associated limits are included to meet the requirements."
+          },
+          {
+            "Sr. No.": "8.",
+            "Tests": "Disintegration time",
+            "Specifications": "NMT 30 minutes",
+            "Justification": "This test and associated limits are included to meet the requirements of BP Pharmacopoeia"
+          },
+          {
+            "Sr. No.": "9.",
+            "Tests": "Dissolution",
+            "Specifications": "NLT 75% (Q) of the labeled amount",
+            "Justification": "This test and associated limits are included to meet the requirements of BP Pharmacopoeia"
+          },
+          {
+            "Sr. No.": "10.",
+            "Tests": "Assay",
+            "Specifications": "95.0% to 105.0% of the stated amount",
+            "Justification": "This test and associated limits are included to"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 5.6 Justification of Specification\nThe specification and test methods employed for analysis of Solifenacin Succinate Tablets\nBP 5 mg as per BP Methods.\nA tabulated summary of the justification of specification is provided in below mentioned\ntable.",
+      "sn": 4,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 5.6 Justification of Specification\nThe specification and test methods employed for analysis of Solifenacin Succinate Tablets\nBP 5 mg as per BP Methods.\nA tabulated summary of the justification of specification is provided in below mentioned\ntable.",
+      "sn": 5,
+      "content": "Page 1"
+    },
+    {
+      "type": "text",
+      "section_title": "P 5.6 Justification of Specification\nThe specification and test methods employed for analysis of Solifenacin Succinate Tablets\nBP 5 mg as per BP Methods.\nA tabulated summary of the justification of specification is provided in below mentioned\ntable.",
+      "sn": 6,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "table",
+      "section_title": "P 5.6 Justification of Specification\nThe specification and test methods employed for analysis of Solifenacin Succinate Tablets\nBP 5 mg as per BP Methods.\nA tabulated summary of the justification of specification is provided in below mentioned\ntable.",
+      "sn": 7,
+      "content": {
+        "columns": [
+          "Sr. No.",
+          "Tests",
+          "Specifications",
+          "Justification"
+        ],
+        "rows": [
+          {
+            "Sr. No.": "",
+            "Tests": "",
+            "Specifications": "",
+            "Justification": "meet the requirements of BP Pharmacopoeia"
+          },
+          {
+            "Sr. No.": "11",
+            "Tests": "Related Substances",
+            "Specifications": "",
+            "Justification": ""
+          },
+          {
+            "Sr. No.": "",
+            "Tests": "Impurity I",
+            "Specifications": "NMT 1.5%",
+            "Justification": "This test and associated limits are included to meet the requirements of BP Pharmacopoeia"
+          },
+          {
+            "Sr. No.": "",
+            "Tests": "Impurity 1",
+            "Specifications": "NMT 0.5%",
+            "Justification": ""
+          },
+          {
+            "Sr. No.": "",
+            "Tests": "Single Unknown Maximum Impurity",
+            "Specifications": "NMT 0.2%",
+            "Justification": ""
+          },
+          {
+            "Sr. No.": "",
+            "Tests": "Total Unknown Impurities",
+            "Specifications": "NMT 1.0%",
+            "Justification": ""
+          },
+          {
+            "Sr. No.": "12.",
+            "Tests": "Microbial Limit Test",
+            "Specifications": "TAMC: NMT 1000 cfu/gm. TYMC: NMT 100 cfu/gm. Escherichia coli: Absent/gm. Salmonella: Absent/10 gm. P. aeruginosa: Absent/gm. S. aureus : Absent/gm.",
+            "Justification": "This test and associated limits are included to meet the requirements of BP Pharmacopoeia"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 5.6 Justification of Specification\nThe specification and test methods employed for analysis of Solifenacin Succinate Tablets\nBP 5 mg as per BP Methods.\nA tabulated summary of the justification of specification is provided in below mentioned\ntable.",
+      "sn": 8,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 5.6 Justification of Specification\nThe specification and test methods employed for analysis of Solifenacin Succinate Tablets\nBP 5 mg as per BP Methods.\nA tabulated summary of the justification of specification is provided in below mentioned\ntable.",
+      "sn": 9,
+      "content": "Page 2"
+    }
+  ]
+}

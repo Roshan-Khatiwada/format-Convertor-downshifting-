@@ -1,0 +1,5 @@
+SECTION: P 2.1 — ACTIVE INGREDIENT (one PDF)
+
+SCOPE: Literature data for the active ingredient only.
+OUTPUT: header(s) + literature text block.
+SOURCE: technical_intelligence.p2.1 and uploaded literature PDF.

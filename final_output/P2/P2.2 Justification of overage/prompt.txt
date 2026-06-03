@@ -1,0 +1,4 @@
+SECTION: P 2.2 — OVERAGES (one PDF)
+
+SCOPE: Overage justification only; cross-reference P1.
+SOURCE: technical_intelligence.p2.2, p1 composition.

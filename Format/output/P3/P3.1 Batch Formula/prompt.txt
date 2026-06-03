@@ -1,0 +1,4 @@
+SECTION: P 3.1 — BATCH FORMULA (one PDF)
+
+SCOPE: Full batch formula table *.
+SOURCE: technical_intelligence.p3.1.

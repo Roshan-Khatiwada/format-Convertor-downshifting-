@@ -1,0 +1,39 @@
+{
+  "section_code": "p5.1",
+  "dossier_type": "product",
+  "_instruction": "Generate P5.1 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Control of Finished Product",
+      "section_number": "P 5",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "section_header",
+      "section_title": "Specification\nEnclosed Herewith",
+      "section_number": "P 5.1",
+      "sn": 3,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "P 5.1 Specification\nEnclosed Herewith",
+      "sn": 4,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 5.1 Specification\nEnclosed Herewith",
+      "sn": 5,
+      "content": "Page 1"
+    }
+  ]
+}

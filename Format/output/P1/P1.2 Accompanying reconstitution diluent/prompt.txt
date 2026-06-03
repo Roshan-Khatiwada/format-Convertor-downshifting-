@@ -1,0 +1,12 @@
+SECTION: P 1.1 Description — Accompanying reconstitution diluent(s) if any (one PDF)
+
+SCOPE
+- Only reconstitution diluent(s) supplied with the drug product, if any.
+- For tablets/capsules and other ready-to-use forms: state Not applicable when source has no diluent.
+
+OUTPUT CONTRACT
+- Single text block (a) under section headers.
+- Do not include primary pack composition or unit formula.
+
+SOURCE
+- technical_intelligence.p1 (reconstitution, diluent, dilution) when present; otherwise N/A statement.

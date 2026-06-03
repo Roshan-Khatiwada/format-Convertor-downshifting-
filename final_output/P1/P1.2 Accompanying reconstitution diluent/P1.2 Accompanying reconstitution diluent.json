@@ -1,0 +1,30 @@
+{
+  "section_code": "p1.2",
+  "dossier_type": "product",
+  "_instruction": "Drug Product Description — reconstitution diluent only. If none, state clearly (e.g. Not applicable).",
+  "components": [
+    {
+      "section_code": "P 1.1",
+      "type": "section_header",
+      "title": "DESCRIPTION",
+      "section_number": "P 1.1",
+      "section_title": "DESCRIPTION"
+    },
+    {
+      "section_code": "P 1.1.2",
+      "type": "section_header",
+      "title": "Accompanying reconstitution diluent(s) if any",
+      "section_number": "P 1.1.2",
+      "section_title": "Accompanying reconstitution diluent(s) if any"
+    },
+    {
+      "section_code": "reconstitution_diluent",
+      "type": "text",
+      "title": "Accompanying reconstitution diluent(s)",
+      "prompt": "ESSENCE: Describe any diluent supplied for reconstitution (name, strength, volume, container). CONTRACT: If the product is not reconstituted before use (e.g. solid oral dosage form without diluent), output a concise statement such as 'Not applicable' or 'No reconstitution diluent is supplied.' Do not invent diluent details. SOURCE: technical_intelligence.p1 reconstitution/diluent fields when present.",
+      "section_number": "a",
+      "section_title": "Accompanying reconstitution diluent(s)",
+      "content": "Lactose Monohydrate\nBP\n102.50\nDiluent"
+    }
+  ]
+}

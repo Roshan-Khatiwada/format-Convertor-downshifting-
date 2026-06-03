@@ -1,0 +1,4 @@
+SECTION: P 7 — STABILITY (one PDF)
+
+SCOPE: Post-approval stability commitment only.
+SOURCE: technical_intelligence.p7.

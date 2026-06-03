@@ -1,0 +1,23 @@
+{
+  "section_code": "p3.3",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 3.3 Critical steps and intermediates * (one PDF).",
+  "components": [
+    {
+      "section_code": "P 3.3",
+      "type": "section_header",
+      "title": "CONTROL OF CRITICAL STEPS AND INTERMEDIATES",
+      "section_number": "P 3.3",
+      "section_title": "CONTROL OF CRITICAL STEPS AND INTERMEDIATES"
+    },
+    {
+      "section_code": "critical",
+      "type": "table",
+      "columns": ["Critical step / intermediate", "Test", "Acceptance criteria"],
+      "title": "Tests and acceptance criteria",
+      "prompt": "ESSENCE: Tests and acceptance criteria for critical steps and intermediates. CONTRACT: Columns Critical step / intermediate, Test, Acceptance criteria.",
+      "section_number": "b",
+      "section_title": "Tests and acceptance criteria"
+    }
+  ]
+}

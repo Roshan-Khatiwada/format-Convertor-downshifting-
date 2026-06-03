@@ -1,0 +1,4 @@
+SECTION: P 6 — CONTAINER CLOSURE SYSTEM (one PDF)
+
+SCOPE: Primary/secondary packaging specification and control *.
+SOURCE: technical_intelligence.p6.

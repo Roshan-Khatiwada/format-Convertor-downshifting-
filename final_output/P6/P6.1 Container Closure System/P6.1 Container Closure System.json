@@ -1,0 +1,36 @@
+{
+  "section_code": "p6.1",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 6 Container Closure System * (one PDF).",
+  "components": [
+    {
+      "section_code": "P 6",
+      "type": "section_header",
+      "title": "CONTAINER CLOSURE SYSTEM",
+      "section_number": "P 6",
+      "section_title": "CONTAINER CLOSURE SYSTEM"
+    },
+    {
+      "section_code": "packaging",
+      "type": "text",
+      "title": "Specification and control of packaging",
+      "prompt": "ESSENCE: Specification and control of primary and secondary packaging material, packaging type and size, details of packaging inclusions (e.g. desiccant). CONTRACT: Complete packaging description from source *.",
+      "section_number": "a",
+      "section_title": "Specification and control of packaging",
+      "content": "The packing material Standard Test Procedure of Solifenacin Succinate Tablets BP 5 mg are"
+    },
+    {
+      "section_code": "packaging_table",
+      "type": "table",
+      "columns": [
+        "Component",
+        "Material / specification",
+        "Size / detail"
+      ],
+      "title": "Packaging components",
+      "prompt": "ESSENCE: Table of packaging components — component, material, supplier/spec, dimensions.",
+      "section_number": "b",
+      "section_title": "Packaging components"
+    }
+  ]
+}

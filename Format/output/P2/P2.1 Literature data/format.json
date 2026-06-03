@@ -1,0 +1,29 @@
+{
+  "section_code": "p2.1",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 2.1 Active Ingredient: Literature data (one PDF).",
+  "components": [
+    {
+      "section_code": "P 2.2",
+      "type": "section_header",
+      "title": "COMPONENTS OF THE DRUG PRODUCT",
+      "section_number": "P 2.2",
+      "section_title": "COMPONENTS OF THE DRUG PRODUCT"
+    },
+    {
+      "section_code": "P 2.2.1",
+      "type": "section_header",
+      "title": "ACTIVE INGREDIENT",
+      "section_number": "P 2.2.1",
+      "section_title": "ACTIVE INGREDIENT"
+    },
+    {
+      "section_code": "literature",
+      "type": "text",
+      "title": "Literature data",
+      "prompt": "ESSENCE: Literature data supporting the active ingredient (pharmacology, safety, quality references as per uploaded source). CONTRACT: Narrative and/or bibliographic list from source only; do not invent references. PRESENTATION: Plain text; cite literature per source format.",
+      "section_number": "a",
+      "section_title": "Literature data"
+    }
+  ]
+}

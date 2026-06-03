@@ -1,0 +1,948 @@
+{
+  "section_code": "p3.3",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 3.3 Critical steps and intermediates * (one PDF).",
+  "components": [
+    {
+      "section_code": "P 3.3",
+      "type": "section_header",
+      "title": "CONTROL OF CRITICAL STEPS AND INTERMEDIATES",
+      "section_number": "P 3.3",
+      "section_title": "CONTROL OF CRITICAL STEPS AND INTERMEDIATES"
+    },
+    {
+      "section_code": "critical",
+      "type": "table",
+      "columns": [
+        "Critical step / intermediate",
+        "Test",
+        "Acceptance criteria"
+      ],
+      "title": "Tests and acceptance criteria",
+      "prompt": "ESSENCE: Tests and acceptance criteria for critical steps and intermediates. CONTRACT: Columns Critical step / intermediate, Test, Acceptance criteria.",
+      "section_number": "b",
+      "section_title": "Tests and acceptance criteria"
+    },
+    {
+      "type": "text",
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "content": "Dispensing of Raw Material as per Bill of Material"
+    },
+    {
+      "type": "text",
+      "content": "Sifting of dispensed material"
+    },
+    {
+      "type": "text",
+      "content": "Binder Preparation"
+    },
+    {
+      "type": "text",
+      "content": "Dry Mixing of Active & Excipients"
+    },
+    {
+      "type": "text",
+      "content": "Sampling"
+    },
+    {
+      "type": "text",
+      "content": "Binder Addition & Wet Granulation"
+    },
+    {
+      "type": "text",
+      "content": "Milling of Wet Granules"
+    },
+    {
+      "type": "text",
+      "content": "Drying in FBE"
+    },
+    {
+      "type": "text",
+      "content": "Sampling"
+    },
+    {
+      "type": "text",
+      "content": "Sifting of Dried Granules"
+    },
+    {
+      "type": "text",
+      "content": "Milling & Sifting of oversized Granules"
+    },
+    {
+      "type": "text",
+      "content": "Mixing of Dried granules with lubricants"
+    },
+    {
+      "type": "text",
+      "content": "Sampling"
+    },
+    {
+      "type": "text",
+      "content": "Compression of lubricated granules & metal Detection"
+    },
+    {
+      "type": "text",
+      "content": "Sampling"
+    },
+    {
+      "type": "text",
+      "content": "Coating"
+    },
+    {
+      "type": "text",
+      "content": "Sampling"
+    },
+    {
+      "type": "text",
+      "content": "Inspection of coated tablets"
+    },
+    {
+      "type": "text",
+      "content": "Packing"
+    },
+    {
+      "type": "text",
+      "content": "Sampling"
+    },
+    {
+      "type": "text",
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "content": "Page 1"
+    },
+    {
+      "type": "text",
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "content": "MANUFACTURING PROCESS\nAll the major equipments and instrument used for process, as listed below shall be verified\nfor Installation, Operational and Performance Qualification."
+    },
+    {
+      "type": "text",
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "content": "Page 2"
+    },
+    {
+      "type": "text",
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "content": "Page 3"
+    },
+    {
+      "type": "text",
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "content": "Stage\nArea\nTemperature\nRelative Humidity\nPressure\nDifferential\nDispensin\nDispensing Area\n22°C±3°C\n50% ± 10\n5-25 Pascal"
+    },
+    {
+      "type": "text",
+      "content": "Filling\nCapsule Filling"
+    },
+    {
+      "type": "text",
+      "content": "Room\n22°C±3°C\n50% ± 10\n5-25 Pascal"
+    },
+    {
+      "type": "text",
+      "content": "1.1\nSolifenacin Succinate & lactose monohydrate geometrically mixed & then mixed in\npolybag. 1:1 proportion 3 times."
+    },
+    {
+      "type": "text",
+      "content": "1.2\nAdd mixture of solifenacin  succinate and Lactose monohydrate and maize starch\ntrough sieve # 40"
+    },
+    {
+      "type": "text",
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "content": "Page 4"
+    },
+    {
+      "type": "text",
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "content": "Page 5"
+    },
+    {
+      "type": "text",
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "content": "Page 6"
+    },
+    {
+      "type": "text",
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "content": "Page 7"
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "Sr. No.",
+          "Name of the equipment",
+          "Equipment ID"
+        ],
+        "rows": [
+          {
+            "Sr. No.": "Warehouse",
+            "Name of the equipment": "",
+            "Equipment ID": ""
+          },
+          {
+            "Sr. No.": "01",
+            "Name of the equipment": "OFCB",
+            "Equipment ID": "EQ/WRH/OFCB/004"
+          },
+          {
+            "Sr. No.": "02",
+            "Name of the equipment": "Weighing Balance",
+            "Equipment ID": "INQ/WRH/WEB/003"
+          },
+          {
+            "Sr. No.": "03",
+            "Name of the equipment": "Weighing Balance",
+            "Equipment ID": "INQ/WRH/WEB/004"
+          },
+          {
+            "Sr. No.": "Production",
+            "Name of the equipment": "",
+            "Equipment ID": ""
+          },
+          {
+            "Sr. No.": "01",
+            "Name of the equipment": "Double Deck Vibratory Sifter (30 inch)",
+            "Equipment ID": "EQ/OSD/VSF/002"
+          },
+          {
+            "Sr. No.": "02",
+            "Name of the equipment": "High Shear Mixer Granulator - 100L",
+            "Equipment ID": "EQ/OSD/HSMG/001"
+          },
+          {
+            "Sr. No.": "03",
+            "Name of the equipment": "Pillar Type Bin Blender - 300 L",
+            "Equipment ID": "EQ/OSD/PBB/001"
+          },
+          {
+            "Sr. No.": "04",
+            "Name of the equipment": "Binder Preparation Vessel 60 L",
+            "Equipment ID": "EQ/OSD/BPV/001"
+          },
+          {
+            "Sr. No.": "05",
+            "Name of the equipment": "Fluid Bed Equipment (FBE 125 C)",
+            "Equipment ID": "EQ/OSD/FBE/001"
+          },
+          {
+            "Sr. No.": "06",
+            "Name of the equipment": "Tap Cone Mill -100",
+            "Equipment ID": "EQ/OSD/TCM/001"
+          },
+          {
+            "Sr. No.": "07",
+            "Name of the equipment": "Weighing Balance",
+            "Equipment ID": "INQ/OSD/WEB/014"
+          },
+          {
+            "Sr. No.": "08",
+            "Name of the equipment": "Weighing Balance",
+            "Equipment ID": "INQ/OSD/WEB/013"
+          },
+          {
+            "Sr. No.": "09",
+            "Name of the equipment": "27 Station 'D' Tooling Double Rotary Compression Machine",
+            "Equipment ID": "EQ/OSD/COM/001"
+          },
+          {
+            "Sr. No.": "10",
+            "Name of the equipment": "Combo metal detector and de-duster",
+            "Equipment ID": "EQ/OSD/DMD/001 EQ/OSD/DMD/002"
+          },
+          {
+            "Sr. No.": "11",
+            "Name of the equipment": "Weighing Balance",
+            "Equipment ID": "INQ/OSD/WEB/003"
+          },
+          {
+            "Sr. No.": "12",
+            "Name of the equipment": "Capsule and tablet inspection belt",
+            "Equipment ID": "EQ/OSD/CTIC/001"
+          },
+          {
+            "Sr. No.": "13",
+            "Name of the equipment": "Blister Packing Machine",
+            "Equipment ID": "EQ/OSD/RBPM/001"
+          },
+          {
+            "Sr. No.": "14",
+            "Name of the equipment": "Weighing Balance",
+            "Equipment ID": "INQ/OSD/WEB/005"
+          },
+          {
+            "Sr. No.": "IPQA",
+            "Name of the equipment": "",
+            "Equipment ID": ""
+          },
+          {
+            "Sr. No.": "01",
+            "Name of the equipment": "Weighing Balance",
+            "Equipment ID": "INQ/IPQA/WEB/001"
+          },
+          {
+            "Sr. No.": "02",
+            "Name of the equipment": "Vernier Caliper",
+            "Equipment ID": "INQ/IPQA/VC/001"
+          },
+          {
+            "Sr. No.": "03",
+            "Name of the equipment": "Disntegration Test Apparatus",
+            "Equipment ID": "INQ/IPQA/DT/001"
+          },
+          {
+            "Sr. No.": "04",
+            "Name of the equipment": "Leak Test Apparatus",
+            "Equipment ID": "INQ/IPQA/LT/001"
+          },
+          {
+            "Sr. No.": "05",
+            "Name of the equipment": "Hardness Tester",
+            "Equipment ID": "INQ/IPQA/THT/001"
+          },
+          {
+            "Sr. No.": "06",
+            "Name of the equipment": "Halogen Moisture Analyzer",
+            "Equipment ID": "INQ/IPQA/HMA/001"
+          },
+          {
+            "Sr. No.": "07",
+            "Name of the equipment": "Friability Test apparatus",
+            "Equipment ID": "INQ/IPQA/FT/001"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "Sr. No.",
+          "Name of the equipment",
+          "Equipment ID"
+        ],
+        "rows": [
+          {
+            "Sr. No.": "Quality Control",
+            "Name of the equipment": "",
+            "Equipment ID": ""
+          },
+          {
+            "Sr. No.": "01",
+            "Name of the equipment": "Analytical Weighing Balance",
+            "Equipment ID": "INQ/QCD/WEB/002, INQ/QCD/WEB/003"
+          },
+          {
+            "Sr. No.": "02",
+            "Name of the equipment": "HPLC",
+            "Equipment ID": "INQ/QCD/HPLC/001,INQ/QCD/HPLC/002 INQ/QCD/HPLC/006."
+          },
+          {
+            "Sr. No.": "03",
+            "Name of the equipment": "UV Visible Spectrophotometer",
+            "Equipment ID": "INQ/QCD/UV/001"
+          },
+          {
+            "Sr. No.": "04",
+            "Name of the equipment": "IR",
+            "Equipment ID": "INQ/QCD/IR/001"
+          },
+          {
+            "Sr. No.": "05",
+            "Name of the equipment": "Vernier Caliper",
+            "Equipment ID": "INQ/QCD/VC/002"
+          },
+          {
+            "Sr. No.": "06",
+            "Name of the equipment": "Disintegration test Apparatus",
+            "Equipment ID": "INQ/QCD/DT/001"
+          },
+          {
+            "Sr. No.": "07",
+            "Name of the equipment": "Friability Test apparatus",
+            "Equipment ID": "INQ/QCD/FT/001"
+          },
+          {
+            "Sr. No.": "08",
+            "Name of the equipment": "Hardness Tester",
+            "Equipment ID": "INQ/QCD/THT/001"
+          },
+          {
+            "Sr. No.": "09",
+            "Name of the equipment": "pH meter",
+            "Equipment ID": "INQ/QCD/PH/001"
+          },
+          {
+            "Sr. No.": "10",
+            "Name of the equipment": "Tap Density Apparatus",
+            "Equipment ID": "INQ/QCD/TAP/001"
+          },
+          {
+            "Sr. No.": "11",
+            "Name of the equipment": "Dissolution test apparats",
+            "Equipment ID": "INQ/QCD/DIS/001, INQ/QCD/DIS/002"
+          },
+          {
+            "Sr. No.": "12",
+            "Name of the equipment": "Autotitrator",
+            "Equipment ID": "INQ/QCD/AT/001"
+          },
+          {
+            "Sr. No.": "13",
+            "Name of the equipment": "UV Cabinet",
+            "Equipment ID": "INQ/QCD/UVC/001"
+          },
+          {
+            "Sr. No.": "14",
+            "Name of the equipment": "Stability Chember",
+            "Equipment ID": "EQ/QCD/STB/001 to EQ/QCD/STB/003"
+          },
+          {
+            "Sr. No.": "Microbiology",
+            "Name of the equipment": "",
+            "Equipment ID": ""
+          },
+          {
+            "Sr. No.": "01",
+            "Name of the equipment": "Weighing Balance",
+            "Equipment ID": "INQ/QCM/WEB/001, INQ/QCM/WEB/002"
+          },
+          {
+            "Sr. No.": "02",
+            "Name of the equipment": "HLAF",
+            "Equipment ID": "EQ/QCM/HLAF/001"
+          },
+          {
+            "Sr. No.": "03",
+            "Name of the equipment": "Vertical Autoclave",
+            "Equipment ID": "EQ/VA/001"
+          },
+          {
+            "Sr. No.": "04",
+            "Name of the equipment": "Biosafety Cabinet",
+            "Equipment ID": "EQ/QCM/BSC/001"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "In response to а requisition from Production, the raw materials warehouse personnel"
+        ],
+        "rows": [
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "assemble the requisite raw materials in whole containers, on а batch specific pallet in the raw"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "material staging area. Materials are verified as to correct stock rotation, presence of “Passed”"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "labels from quality control, identification, and quantity."
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "The pallet is transferred into the materials dispensary. Prior to transfer, the dispensary аrеа is"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "checked for cleanliness, and absence of аnу other raw materials from а previous dispensing"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "operation. Upon receipt in the dispensary area, production staff and Quality Assurance staff"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "verifies quality control status, batch number, identity, and quantities of materials received,"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "against the accompanying documents."
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "Precaution: -"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "1. Ensure visually the cleanliness of production area, machines & equipment’s."
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "2. Ensure visually that previous product is completely removed."
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "3. Ensure that the residual test clearance report is obtained from QC."
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "4. Check temperature & humidity of area."
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "5. Every person carrying out the manufacturing process in production shall wear the"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "protective clothing, cap, gloves, and nose mask whenever required."
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "6. Ensure all material received is appropriately labeled. Verified for Net weight &"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "Appearance by Competent Technical Person."
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "7. Ensure the material taken for processing are free of Black particles / foreign matters."
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "8. Cover the containers properly at all time. Upon receipt in the production area, a further"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "independent verification of material identity, quantity, batch number and release status is"
+          },
+          {
+            "In response to а requisition from Production, the raw materials warehouse personnel": "performed by production staff."
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "Stage",
+          "Area",
+          "Temperature",
+          "Relative Humidity",
+          "Pressure Differential"
+        ],
+        "rows": [
+          {
+            "Stage": "Dispensin",
+            "Area": "Dispensing Area",
+            "Temperature": "22°C±3°C",
+            "Relative Humidity": "50% ± 10",
+            "Pressure Differential": "5-25 Pascal"
+          },
+          {
+            "Stage": "g Filling",
+            "Area": "Capsule Filling Room",
+            "Temperature": "22°C±3°C",
+            "Relative Humidity": "50% ± 10",
+            "Pressure Differential": "5-25 Pascal"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "1. Sifting:",
+          "column"
+        ],
+        "rows": [
+          {
+            "1. Sifting:": "1.1",
+            "column": "Solifenacin Succinate & lactose monohydrate geometrically mixed & then mixed in polybag. 1:1 proportion 3 times."
+          },
+          {
+            "1. Sifting:": "1.2",
+            "column": "Add mixture of solifenacin succinate and Lactose monohydrate and maize starch trough sieve # 40"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "1.3",
+          "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage."
+        ],
+        "rows": [
+          {
+            "1.3": "2. Dry Mixing:",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": ""
+          },
+          {
+            "1.3": "2.1.",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Load the sifted materials (Solifenacin Succinate+lactose monohydrate+maize starch starch+Magnesium stearate) into the RMG. Dry mix the material for 10 minutes at impeller slow speed."
+          },
+          {
+            "1.3": "3. Binder Preparation",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": ""
+          },
+          {
+            "1.3": "3.1",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Check the cleanliness of the solution preparation vessel."
+          },
+          {
+            "1.3": "3.2",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Take 1.6656 Kg purified water in binder preparation vessel then add slowly hypromellose HPMC 3mpas with continuous stirring to form a clear solution."
+          },
+          {
+            "1.3": "4. Granulation:",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": ""
+          },
+          {
+            "1.3": "4.1",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Add the binder solution slowly into RMG at impeller slow speed mix for 1 minutes followed by racking."
+          },
+          {
+            "1.3": "4.2",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "If required add 0.7992 kg of purified water in RMG at impeller slow speed mix for 1 minute follwed by racking."
+          },
+          {
+            "1.3": "4.3",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Start the kneading by operating the impeller at Fast Speed for 30 seconds."
+          },
+          {
+            "1.3": "4.4",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Unload the material."
+          },
+          {
+            "1.3": "5. Drying:",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": ""
+          },
+          {
+            "1.3": "5.1",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Check the integrity of the dryer bowl before and after drying"
+          },
+          {
+            "1.3": "5.2",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Dry the granules in dryer at inlet temperature 50°C to 60 °C. Drying to be done till desire LOD achieved (LOD Limit 1.0 ±2.0 % at 105 deg. Cel.)."
+          },
+          {
+            "1.3": "5.3",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Record the observations"
+          },
+          {
+            "1.3": "6. Sizing & milling",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": ""
+          },
+          {
+            "1.3": "6.1",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Dried granules size through 20# sieve and oversized granules milled through 3, 2.5, and 2 mm screen simultaneously by the Tap cone mill, 20# retention from each milling stage should be milled by subsequent screen. At last, retaintion after 2 mm screen milling observed should be pressed out through 20# sieve. Final granules size: 20#"
+          },
+          {
+            "1.3": "6.2",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Calculate the yield of dried granules."
+          },
+          {
+            "1.3": "7. Lubrication:",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": ""
+          },
+          {
+            "1.3": "7.1",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Load the 20# sized above granules & pre sifted magnesium stearate in blender and lubricate for 5 minutes at 08 RPM."
+          },
+          {
+            "1.3": "8. Compression",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": ""
+          },
+          {
+            "1.3": "8.1",
+            "Sift Magnesium stearate through 60# sieve & keep aside for lubrication stage.": "Temperature NMT 22±3°C and Humidity NMT 50% ±10% of the area shall be maintained"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "8.2",
+          "column",
+          "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM",
+          "column_1"
+        ],
+        "rows": [
+          {
+            "8.2": "8.3",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "Collect tablets completion of one rotation each from left & right side discharge chute of machine for initial checks.",
+            "column_1": ""
+          },
+          {
+            "8.2": "8.4",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "Run the machine after initial checks of tablet parameters are found satisfactory.",
+            "column_1": ""
+          },
+          {
+            "8.2": "8.5",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "Record the weight of compressed tablets.",
+            "column_1": ""
+          },
+          {
+            "8.2": "8.6",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "After inspection, carry out the challenge test before starting the metal detection.",
+            "column_1": ""
+          },
+          {
+            "8.2": "",
+            "column": "9. Coating solution preparation",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "",
+            "column_1": ""
+          },
+          {
+            "8.2": "9.1",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "Take the 3.510 kg purified water add slowly Ready coat 31FO193220 under stirring in solution preparation vessel under vertex forming stirring & stir for 45 minutes to form uniform coating dispersion. Filter the coating solution before use by 100# sieve.",
+            "column_1": ""
+          },
+          {
+            "8.2": "9.2",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "After getting the solution, filter the solution through SS screen.",
+            "column_1": ""
+          },
+          {
+            "8.2": "10. Film coating:",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "",
+            "column_1": ""
+          },
+          {
+            "8.2": "10.1",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "Preheat the tablets for 5 min. after reaching inlet air temperature 70 ºC ± 10ºC",
+            "column_1": ""
+          },
+          {
+            "8.2": "10.2",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "Set the nozzle spray tip between 8 ± 4 inches for Auto-coater from moving tablet bed.",
+            "column_1": ""
+          },
+          {
+            "8.2": "10.3",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "Bed Temperature should be 38°C ± 7°C",
+            "column_1": ""
+          },
+          {
+            "8.2": "10.4",
+            "column": "",
+            "7.6 mm Round, standard concave punches plain Punch details on both sides ('B' Toolings) White to off white, round shaped, film coated Appearance tablet plain on other sides. Group weight of 20 tablets 16.400 gm ± 3.0% (15.908 gm to 16.892 gm) Average Weight 150.00 mg ± 7.5% (138.75 mg to 161.25 mg) Thickness 3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm) Hardness NLT 3.0 kg Friability (%) NMT 1.00 % w/w Disintegration Time Not more than 15 minutes Speed 16-42 RPM": "Standard Setting Parameters of coating Parameter Acceptance criteria/Limits Inlet Temperature (°C ) 60°C to 80 °C Exhaust Temperature (°C ) 45°C to 60 °C Bed Temperature (°C ) 38 ± 10 °C Pan speed 2-8 RPM Automizing Air pressure 0.1 – 0.4 kg/cm2 Peristaltic pump speed (RPM) 5 – 40",
+            "column_1": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "Punch details",
+          "column",
+          "column_1",
+          "7.6 mm Round, standard concave punches plain"
+        ],
+        "rows": [
+          {
+            "Punch details": "",
+            "column": "",
+            "column_1": "",
+            "7.6 mm Round, standard concave punches plain": "on both sides ('B' Toolings)"
+          },
+          {
+            "Punch details": "Appearance",
+            "column": "",
+            "column_1": "",
+            "7.6 mm Round, standard concave punches plain": "White to off white, round shaped, film coated"
+          },
+          {
+            "Punch details": "",
+            "column": "",
+            "column_1": "",
+            "7.6 mm Round, standard concave punches plain": "tablet plain on other sides."
+          },
+          {
+            "Punch details": "Group weight of 20 tablets",
+            "column": "",
+            "column_1": "16.400 gm ± 3.0% (15.908 gm to 16.892 gm)",
+            "7.6 mm Round, standard concave punches plain": ""
+          },
+          {
+            "Punch details": "Average Weight",
+            "column": "",
+            "column_1": "",
+            "7.6 mm Round, standard concave punches plain": "150.00 mg ± 7.5% (138.75 mg to 161.25 mg)"
+          },
+          {
+            "Punch details": "Thickness",
+            "column": "",
+            "column_1": "3.3 mm ± 0.30 mm (3.00 mm to 3.6 mm)",
+            "7.6 mm Round, standard concave punches plain": ""
+          },
+          {
+            "Punch details": "Hardness",
+            "column": "",
+            "column_1": "",
+            "7.6 mm Round, standard concave punches plain": "NLT 3.0 kg"
+          },
+          {
+            "Punch details": "Friability (%)",
+            "column": "",
+            "column_1": "",
+            "7.6 mm Round, standard concave punches plain": "NMT 1.00 % w/w"
+          },
+          {
+            "Punch details": "Disintegration Time",
+            "column": "",
+            "column_1": "",
+            "7.6 mm Round, standard concave punches plain": "Not more than 15 minutes"
+          },
+          {
+            "Punch details": "Speed",
+            "column": "",
+            "column_1": "",
+            "7.6 mm Round, standard concave punches plain": "16-42 RPM"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "Parameter",
+          "Acceptance criteria/Limits"
+        ],
+        "rows": [
+          {
+            "Parameter": "Inlet Temperature (°C )",
+            "Acceptance criteria/Limits": "60°C to 80 °C"
+          },
+          {
+            "Parameter": "Exhaust Temperature (°C )",
+            "Acceptance criteria/Limits": "45°C to 60 °C"
+          },
+          {
+            "Parameter": "Bed Temperature (°C )",
+            "Acceptance criteria/Limits": "38 ± 10 °C"
+          },
+          {
+            "Parameter": "Pan speed",
+            "Acceptance criteria/Limits": "2-8 RPM"
+          },
+          {
+            "Parameter": "Automizing Air pressure kg/cm2",
+            "Acceptance criteria/Limits": "0.1 – 0.4"
+          },
+          {
+            "Parameter": "Peristaltic pump speed (RPM)",
+            "Acceptance criteria/Limits": "5 – 40"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "column",
+          "Note: Coating parameters can be adjusted to achieve better coating."
+        ],
+        "rows": [
+          {
+            "column": "10.5",
+            "Note: Coating parameters can be adjusted to achieve better coating.": "Once target weight gain of 2.0% is achieved stop the spraying process and dry the tablet for approximately 5 minutes."
+          },
+          {
+            "column": "10.6",
+            "Note: Coating parameters can be adjusted to achieve better coating.": "Parameter Acceptance criteria/Limits Light Yellow coloured, round shaped, film Appearance coated tablet plain on other sides. Weight of 20 coated tablets 16.720gm ± 3.00 % (16.218gm – 17.222gm) Average weight of coated tablet 153.00 mg ± 7.5% (141.53 mg to 164.48 mg) Thickness 3.28 mm ± 0.3 mm (2.98 mm to 3.58 mm) Disintegration Time NMT 30min. After coating check the following tablets parameters."
+          },
+          {
+            "column": "11. Inspection coated tablets:",
+            "Note: Coating parameters can be adjusted to achieve better coating.": ""
+          },
+          {
+            "column": "11.1",
+            "Note: Coating parameters can be adjusted to achieve better coating.": "Inspect the coated tablets for any defect."
+          },
+          {
+            "column": "11.2",
+            "Note: Coating parameters can be adjusted to achieve better coating.": "Record the weight of inspected tablets after completion of inspection."
+          },
+          {
+            "column": "11.3",
+            "Note: Coating parameters can be adjusted to achieve better coating.": "Calculate % yield. (Limit is 95.00% to 100.00%)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "Parameter",
+          "Acceptance criteria/Limits"
+        ],
+        "rows": [
+          {
+            "Parameter": "Appearance",
+            "Acceptance criteria/Limits": "Light Yellow coloured, round shaped, film coated tablet plain on other sides."
+          },
+          {
+            "Parameter": "Weight of 20 coated tablets",
+            "Acceptance criteria/Limits": "16.720gm ± 3.00 % (16.218gm – 17.222gm)"
+          },
+          {
+            "Parameter": "Average weight of coated tablet",
+            "Acceptance criteria/Limits": "153.00 mg ± 7.5% (141.53 mg to 164.48 mg)"
+          },
+          {
+            "Parameter": "Thickness",
+            "Acceptance criteria/Limits": "3.28 mm ± 0.3 mm (2.98 mm to 3.58 mm)"
+          },
+          {
+            "Parameter": "Disintegration Time",
+            "Acceptance criteria/Limits": "NMT 30min."
+          }
+        ]
+      }
+    }
+  ]
+}

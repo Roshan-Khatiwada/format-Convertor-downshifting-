@@ -1,0 +1,14 @@
+SECTION: P 1.1 Description — Type of container and closure (one PDF)
+
+SCOPE
+- Container and closure for the drug product dosage form.
+- Container and closure for reconstitution diluent, if applicable (otherwise N/A).
+
+OUTPUT CONTRACT
+- Order: headers, a (dosage form container/closure), b (diluent container/closure or N/A).
+- text → top-level `content`.
+
+SOURCE
+- technical_intelligence.p1 packing details, common_info packaging, p7 container closure when needed for detail.
+
+Do NOT include composition tables or appearance-only description (see P 1.1.1).

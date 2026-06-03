@@ -1,0 +1,4 @@
+SECTION: P 5.5 — BATCH ANALYSIS (one PDF)
+
+SCOPE: Description and test results of all relevant batches.
+SOURCE: technical_intelligence.p55.

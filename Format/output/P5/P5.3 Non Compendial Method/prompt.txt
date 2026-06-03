@@ -1,0 +1,4 @@
+SECTION: P 5.3 — VALIDATION OF ANALYTICAL PROCEDURES (one PDF)
+
+SCOPE: Non-compendial method validation only (separate PDF from compendial verification).
+SOURCE: technical_intelligence.p5.3.

@@ -1,0 +1,4 @@
+SECTION: P 5.7 — JUSTIFICATION OF SPECIFICATION(S) (one PDF)
+
+SCOPE: Justification of the proposed finished product specification.
+SOURCE: technical_intelligence.p57.

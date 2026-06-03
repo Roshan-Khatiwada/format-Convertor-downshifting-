@@ -1,0 +1,228 @@
+{
+  "section_code": "p8.2",
+  "dossier_type": "product",
+  "_instruction": "Generate P8.2 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "section_number": "P 8",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "table",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 3,
+      "content": {
+        "columns": [
+          "P.8.2 Post-approval stability protocol and stability commitment"
+        ],
+        "rows": [
+          {
+            "P.8.2 Post-approval stability protocol and stability commitment": "The studies on exhibit batches are up to 6 months at 40° C/75% RH and 36 months at 30°"
+          },
+          {
+            "P.8.2 Post-approval stability protocol and stability commitment": "C/75% RH. The study protocol is provided in Table 1."
+          },
+          {
+            "P.8.2 Post-approval stability protocol and stability commitment": "Table 1: Stability Protocol with exhibit batches of Solifenacin Succinate Tablets BP 5 mg."
+          },
+          {
+            "P.8.2 Post-approval stability protocol and stability commitment": "ALU/ALU blister pack of 10 tablets, Such 10 blisters is packed into a carton along with pack"
+          },
+          {
+            "P.8.2 Post-approval stability protocol and stability commitment": "insert"
+          },
+          {
+            "P.8.2 Post-approval stability protocol and stability commitment": "Table 1: Stability Test Programme"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 4,
+      "content": {
+        "columns": [
+          "Test points (Months)",
+          "Storage conditions",
+          "column"
+        ],
+        "rows": [
+          {
+            "Test points (Months)": "",
+            "Storage conditions": "Accelerated",
+            "column": "Long Term"
+          },
+          {
+            "Test points (Months)": "",
+            "Storage conditions": "40±2°C& 75± 5%RH",
+            "column": "30±2°C& 75±5%RH"
+          },
+          {
+            "Test points (Months)": "0 (Initial)",
+            "Storage conditions": "NA",
+            "column": ""
+          },
+          {
+            "Test points (Months)": "1",
+            "Storage conditions": "",
+            "column": "X"
+          },
+          {
+            "Test points (Months)": "2",
+            "Storage conditions": "",
+            "column": "X"
+          },
+          {
+            "Test points (Months)": "3",
+            "Storage conditions": "",
+            "column": ""
+          },
+          {
+            "Test points (Months)": "6",
+            "Storage conditions": "",
+            "column": ""
+          },
+          {
+            "Test points (Months)": "9",
+            "Storage conditions": "X",
+            "column": ""
+          },
+          {
+            "Test points (Months)": "12",
+            "Storage conditions": "X",
+            "column": ""
+          },
+          {
+            "Test points (Months)": "18",
+            "Storage conditions": "X",
+            "column": ""
+          },
+          {
+            "Test points (Months)": "24",
+            "Storage conditions": "X",
+            "column": ""
+          },
+          {
+            "Test points (Months)": "36",
+            "Storage conditions": "X",
+            "column": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 5,
+      "content": {
+        "columns": [
+          " = Testing done; X = Testing not required."
+        ],
+        "rows": [
+          {
+            " = Testing done; X = Testing not required.": "The following test parameters are monitored during the stability study:"
+          },
+          {
+            " = Testing done; X = Testing not required.": "1. Description"
+          },
+          {
+            " = Testing done; X = Testing not required.": "2. Dissolution"
+          },
+          {
+            " = Testing done; X = Testing not required.": "3. Disintegration Time"
+          },
+          {
+            " = Testing done; X = Testing not required.": "4. Hardness"
+          },
+          {
+            " = Testing done; X = Testing not required.": "5. Assay"
+          },
+          {
+            " = Testing done; X = Testing not required.": "6. Related Substances By HPLC"
+          },
+          {
+            " = Testing done; X = Testing not required.": "7. Microbial Limit Test*"
+          },
+          {
+            " = Testing done; X = Testing not required.": "* Test will be done initially and after 6 months of 40°C/75% RH condition and annually upto"
+          },
+          {
+            " = Testing done; X = Testing not required.": "36 months of 30°C/75% RH storage condition."
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 6,
+      "content": "Storage conditions\nAccelerated\nLong Term\n40±2°C& 75± 5%RH\n30±2°C& 75±5%RH\n0 (Initial)\nNA\n1\n\nX\n2\n\nX\n3\n\n\n6\n\n\n9\nX\n\n12\nX\n\n18\nX\n\n24\nX\n\n36\nX\n"
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 7,
+      "content": "Test points"
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 8,
+      "content": "(Months)"
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 9,
+      "content": " = Testing done; X = Testing not required."
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 10,
+      "content": "The following test parameters are monitored during the stability study:"
+    },
+    {
+      "type": "list",
+      "sn": 11,
+      "content": [
+        "Description",
+        "Dissolution",
+        "Disintegration Time",
+        "Hardness",
+        "Assay",
+        "Related Substances By HPLC",
+        "Microbial Limit Test*",
+        "Test will be done initially and after 6 months of 40°C/75% RH condition and annually upto"
+      ]
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 12,
+      "content": "36 months of 30°C/75% RH storage condition."
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 13,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.2 Post-approval stability protocol and stability commitment",
+      "sn": 14,
+      "content": "Page 1"
+    }
+  ]
+}

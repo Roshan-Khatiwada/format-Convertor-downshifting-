@@ -1,0 +1,29 @@
+{
+  "section_code": "p2.2",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 2.2 Overages: justification linked to P1 composition (one PDF).",
+  "components": [
+    {
+      "section_code": "P 2.3",
+      "type": "section_header",
+      "title": "FINISHED PRODUCT",
+      "section_number": "P 2.3",
+      "section_title": "FINISHED PRODUCT"
+    },
+    {
+      "section_code": "P 2.3.2",
+      "type": "section_header",
+      "title": "OVERAGES",
+      "section_number": "P 2.3.2",
+      "section_title": "OVERAGES"
+    },
+    {
+      "section_code": "overage_justification",
+      "type": "text",
+      "title": "Justification of any overage",
+      "prompt": "ESSENCE: Justification of any overage in the formulation(s) described in P1. CONTRACT: Reference P1 composition; state overage %/amount, scientific/regulatory rationale, and impact on assay/content uniformity. PRESENTATION: Plain text from source.",
+      "section_number": "a",
+      "section_title": "Justification of any overage"
+    }
+  ]
+}

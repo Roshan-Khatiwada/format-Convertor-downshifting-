@@ -1,0 +1,10 @@
+SECTION: P 4.3 Excipients of human and animal origin
+
+OUTPUT CONTRACT
+- Root: {"components":[...]} in exact format.json order.
+- text → content (string).
+
+STRICT RULES
+- Only state what source explicitly says.
+- Do not infer origin from generic excipient names.
+- For solid oral dosage forms, typically "Not Applicable."

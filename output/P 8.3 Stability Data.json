@@ -1,0 +1,44 @@
+{
+  "section_code": "p8.3",
+  "dossier_type": "product",
+  "_instruction": "Generate P8.3 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Product Stability\nP.8.3 Stability Data",
+      "section_number": "P 8",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.3 Stability Data",
+      "sn": 3,
+      "content": "Stability study at accelerated and long term conditions for Solifenacin Succinate Tablets BP 5"
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.3 Stability Data",
+      "sn": 4,
+      "content": "mg is enclosed herewith."
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.3 Stability Data",
+      "sn": 5,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 8 Product Stability\nP.8.3 Stability Data",
+      "sn": 6,
+      "content": "Page 1"
+    }
+  ]
+}

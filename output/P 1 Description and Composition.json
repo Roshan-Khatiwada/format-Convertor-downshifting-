@@ -1,0 +1,321 @@
+{
+  "section_code": "p1",
+  "dossier_type": "product",
+  "_instruction": "Generate P1 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Description and Composition\na. Composition",
+      "section_number": "P 1",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "table",
+      "section_title": "P 1 Description and Composition\na. Composition",
+      "sn": 3,
+      "content": {
+        "columns": [
+          "b. Description",
+          "column",
+          "column_1"
+        ],
+        "rows": [
+          {
+            "b. Description": "",
+            "column": "Light Yellow coloured, round shaped, film coated tablet plain on both sides.",
+            "column_1": ""
+          },
+          {
+            "b. Description": "c. Dosage Form: Tablets",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "b. Description": "d. Packing details:",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "b. Description": "",
+            "column": "",
+            "column_1": "ALU/ALU Blister pack of 10 tablets, such a 10 blisters packed into a carton along with"
+          },
+          {
+            "b. Description": "",
+            "column": "",
+            "column_1": "pack insert."
+          },
+          {
+            "b. Description": "e. Qualitative & Quantitative Formula (Unit Formula):",
+            "column": "",
+            "column_1": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section_title": "P 1 Description and Composition\na. Composition",
+      "sn": 4,
+      "content": {
+        "columns": [
+          "Ingredients",
+          "Specification",
+          "Quantity/ Tablet in mg",
+          "Functions"
+        ],
+        "rows": [
+          {
+            "Ingredients": "Dry mix",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Functions": ""
+          },
+          {
+            "Ingredients": "Solifenacin Succinate",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "5.00",
+            "Functions": "Active substance"
+          },
+          {
+            "Ingredients": "Lactose Monohydrate",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "102.50",
+            "Functions": "Diluent"
+          },
+          {
+            "Ingredients": "Maize starch",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "40.00",
+            "Functions": "Diluent"
+          },
+          {
+            "Ingredients": "Binder",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Functions": ""
+          },
+          {
+            "Ingredients": "Hypromellose",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "1.00",
+            "Functions": "Binder"
+          },
+          {
+            "Ingredients": "Purified water",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "q.s.",
+            "Functions": "Solvent"
+          },
+          {
+            "Ingredients": "Lubrication",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Functions": ""
+          },
+          {
+            "Ingredients": "Magnesium Stearate",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "1.50",
+            "Functions": "Lubricant"
+          },
+          {
+            "Ingredients": "Core Tablet Weight",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "150.00 mg",
+            "Functions": ""
+          },
+          {
+            "Ingredients": "Film Coating",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Functions": ""
+          },
+          {
+            "Ingredients": "Readycoat Iron Oxide Yellow 36FO193220",
+            "Specification": "IH",
+            "Quantity/ Tablet in mg": "3.00",
+            "Functions": "Film former"
+          },
+          {
+            "Ingredients": "Purified Water",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "q.s.",
+            "Functions": "Solvent"
+          },
+          {
+            "Ingredients": "Total Tablet Weight (Coated)",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "153.00 mg",
+            "Functions": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 1 Description and Composition\na. Composition",
+      "sn": 5,
+      "content": "Each Film coated tablet contains:"
+    },
+    {
+      "type": "text",
+      "section_title": "P 1 Description and Composition\na. Composition",
+      "sn": 6,
+      "content": "Solifenacin Succinate BP       5 mg"
+    },
+    {
+      "type": "text",
+      "section_title": "P 1 Description and Composition\na. Composition",
+      "sn": 7,
+      "content": "Excipients                                  q.s."
+    },
+    {
+      "type": "text",
+      "section_title": "P 1 Description and Composition\na. Composition",
+      "sn": 8,
+      "content": "b. Description"
+    },
+    {
+      "type": "text",
+      "section_title": "P 1 Description and Composition\na. Composition",
+      "sn": 9,
+      "content": "Light Yellow coloured, round shaped, film coated tablet plain on both sides."
+    },
+    {
+      "type": "section_header",
+      "section_title": "c. Dosage Form: Tablets",
+      "section_number": null,
+      "sn": 10,
+      "content": null
+    },
+    {
+      "type": "section_header",
+      "section_title": "d.   Packing details:",
+      "section_number": null,
+      "sn": 11,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 12,
+      "content": "ALU/ALU Blister pack of 10 tablets, such a 10 blisters packed into a carton along with"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 13,
+      "content": "pack  insert."
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 14,
+      "content": "e.   Qualitative & Quantitative Formula (Unit Formula):"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 15,
+      "content": "Ingredients\nSpecification\nQuantity/\nTablet in mg\nFunctions"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 16,
+      "content": "Dry mix"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 17,
+      "content": "Solifenacin Succinate\nBP\n5.00\nActive\nsubstance"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 18,
+      "content": "Lactose Monohydrate\nBP\n102.50\nDiluent"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 19,
+      "content": "Maize starch\nBP\n40.00\nDiluent"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 20,
+      "content": "Binder"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 21,
+      "content": "Hypromellose\nBP\n1.00\nBinder"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 22,
+      "content": "Purified water\nBP\nq.s.\nSolvent"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 23,
+      "content": "Lubrication"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 24,
+      "content": "Magnesium Stearate\nBP\n1.50\nLubricant"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 25,
+      "content": "Core Tablet Weight\n150.00 mg\nFilm Coating\nReadycoat Iron Oxide Yellow\n36FO193220\nIH\n3.00\nFilm former"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 26,
+      "content": "Purified Water\nBP\nq.s.\nSolvent"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 27,
+      "content": "Total Tablet Weight (Coated)\n153.00 mg"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 28,
+      "content": "Where as:\nBP: British Pharmacopoeia\nIH: In House"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 29,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "d.   Packing details:",
+      "sn": 30,
+      "content": "Page 1"
+    }
+  ]
+}

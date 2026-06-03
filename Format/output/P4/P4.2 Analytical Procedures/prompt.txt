@@ -1,0 +1,11 @@
+SECTION: P 4.2 Analytical Procedures
+
+OUTPUT CONTRACT
+- Root: {"components":[...]} in exact format.json order.
+- text → content (string).
+- table → content with columns and rows.
+
+STRICT RULES
+- Methods must match the tests in P4.1 specification table.
+- Never invent analytical methods.
+- Use compendial reference (e.g. BP, USP) where applicable.

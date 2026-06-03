@@ -1,0 +1,4 @@
+SECTION: P 7 — STABILITY (one PDF)
+
+SCOPE: Stability report * with Zone IVB conditions in narrative when source uses ASEAN Zone IVB.
+SOURCE: technical_intelligence.p7.

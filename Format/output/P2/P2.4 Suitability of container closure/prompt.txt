@@ -1,0 +1,4 @@
+SECTION: P 2.4 — CONTAINER CLOSURE SYSTEM (one PDF)
+
+SCOPE: Pharmaceutical development container-closure suitability (P 6 is separate packaging specification PDF).
+SOURCE: technical_intelligence.p2.4.

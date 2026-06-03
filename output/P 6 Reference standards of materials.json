@@ -1,0 +1,81 @@
+{
+  "section_code": "p6",
+  "dossier_type": "product",
+  "_instruction": "Generate P6 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Reference standards of materials\nCertificate of Analysis of Working Standard/Reference Standard used in the analysis of",
+      "section_number": "P 6",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "table",
+      "section_title": "P 6 Reference standards of materials\nCertificate of Analysis of Working Standard/Reference Standard used in the analysis of",
+      "sn": 3,
+      "content": {
+        "columns": [
+          "Certificate of Analysis of Working Standard/Reference Standard used in the analysis of",
+          "column"
+        ],
+        "rows": [
+          {
+            "Certificate of Analysis of Working Standard/Reference Standard used in the analysis of": "Solifenacin Succinate Tablets BP 5 mg are enclosed.",
+            "column": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section_title": "P 6 Reference standards of materials\nCertificate of Analysis of Working Standard/Reference Standard used in the analysis of",
+      "sn": 4,
+      "content": {
+        "columns": [
+          "Working Standard no.",
+          "Reference Standard Lot No.",
+          "Expiry Date"
+        ],
+        "rows": [
+          {
+            "Working Standard no.": "WS-I/23/SOS/040",
+            "Reference Standard Lot No.": "4527",
+            "Expiry Date": "04/12/2023"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 6 Reference standards of materials\nCertificate of Analysis of Working Standard/Reference Standard used in the analysis of",
+      "sn": 5,
+      "content": "Working Standard no.\nReference Standard Lot No.\nExpiry Date"
+    },
+    {
+      "type": "section_header",
+      "section_title": "WS-I/23/SOS/040\n4527\n04/12/2023",
+      "section_number": null,
+      "sn": 6,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "WS-I/23/SOS/040\n4527\n04/12/2023",
+      "sn": 7,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "WS-I/23/SOS/040\n4527\n04/12/2023",
+      "sn": 8,
+      "content": "Page 1"
+    }
+  ]
+}

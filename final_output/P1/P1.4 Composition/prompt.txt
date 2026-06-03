@@ -1,0 +1,23 @@
+SECTION: P 1.2 Composition — Name and quantity stated in metric weight or measures, function and quality (one PDF)
+
+TABLE b — GROUPED UNIT FORMULA (MANDATORY)
+
+Every process stage must be a **category header row** with ingredients nested in **sub_tests**. Do NOT output a flat list.
+
+**Required row sequence:**
+1. category_header: "Dry mix" → sub_tests: API + dry excipients
+2. category_header: "Binder Preparation" → sub_tests
+3. category_header: "Prelubrication" → sub_tests
+4. category_header: "Lubrication" → sub_tests
+5. Standalone row: Total Fill Weight (fill material only) with Qty filled
+6. category_header: "Capsule Shell" → sub_tests (shell size, colour, composition)
+7. Standalone row: Total Capsule Weight (filled) (last row)
+
+OUTPUT CONTRACT
+- Order: headers, a (composition summary table), b (unit formula table), c (abbreviations).
+- table → top-level columns + rows with category_header/sub_tests for table b.
+
+SOURCE
+- technical_intelligence.p1 composition and formula; common_info for product name and strength.
+
+Do NOT include dosage-form appearance or packaging (P 1.1 PDFs).

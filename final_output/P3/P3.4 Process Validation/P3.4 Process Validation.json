@@ -1,0 +1,115 @@
+{
+  "section_code": "p3.4",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 3.4 Process validation and/or evaluation * (one PDF).",
+  "components": [
+    {
+      "section_code": "P 3.4",
+      "type": "section_header",
+      "title": "PROCESS VALIDATION AND / OR EVALUATION",
+      "section_number": "P 3.4",
+      "section_title": "PROCESS VALIDATION AND / OR EVALUATION"
+    },
+    {
+      "section_code": "validation",
+      "type": "text",
+      "title": "Process validation and evaluation",
+      "prompt": "ESSENCE: Description, documentation, and results of validation/evaluation studies for critical steps or critical assays. CONTRACT: Summary narrative; reference batch numbers and conclusions from source.",
+      "section_number": "a",
+      "section_title": "Process validation and evaluation"
+    },
+    {
+      "section_code": "validation_summary",
+      "type": "table",
+      "columns": [
+        "Study / critical step",
+        "Batches",
+        "Result / conclusion"
+      ],
+      "title": "Validation study summary",
+      "prompt": "ESSENCE: Tabulated validation batches/studies when present. Columns: Study/step, Batches, Result/conclusion.",
+      "section_number": "b",
+      "section_title": "Validation study summary"
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "Manufacturing stage",
+          "Machine Parameters",
+          "Process Parameters",
+          "CQA (Critical Quality Attributes)"
+        ],
+        "rows": [
+          {
+            "Manufacturing stage": "Dry Mixing",
+            "Machine Parameters": "1.Speed of impeller",
+            "Process Parameters": "Mixing time",
+            "CQA (Critical Quality Attributes)": "1. Assay"
+          },
+          {
+            "Manufacturing stage": "Wet Granulation (Preparation of wet granules)",
+            "Machine Parameters": "1.Speed of impeller 2.Chopper speed",
+            "Process Parameters": "1.Binder addition time 2.Mixing time",
+            "CQA (Critical Quality Attributes)": "1. Impeller speed: Slow RPM and Fast RPM. 2. Chopper speed: Fast RPM. 3. Impeller Amperage Load"
+          },
+          {
+            "Manufacturing stage": "Drying",
+            "Machine Parameters": "1. Inlet temperature 2. Outlet temperature",
+            "Process Parameters": "1. Drying time",
+            "CQA (Critical Quality Attributes)": "1.Moisture content"
+          },
+          {
+            "Manufacturing stage": "Milling of oversized dried granules",
+            "Machine Parameters": "1.Screen size",
+            "Process Parameters": "1.Milling Speed",
+            "CQA (Critical Quality Attributes)": "1. Consistent dried granules"
+          },
+          {
+            "Manufacturing stage": "Lubrication",
+            "Machine Parameters": "1. Speed of blender",
+            "Process Parameters": "1.Mixing time",
+            "CQA (Critical Quality Attributes)": "1. Assay 2. Water Content 3. TD and BD"
+          },
+          {
+            "Manufacturing stage": "Compression",
+            "Machine Parameters": "1.Speed of Compression Machine 2. Force feeder speed 3. Tonnage",
+            "Process Parameters": "Low hardness High hardness Minimum Speed Optimum Speed Maximum Speed",
+            "CQA (Critical Quality Attributes)": "Average weight Group Weight Thickness Hardness DT Friability Assay Water content"
+          },
+          {
+            "Manufacturing stage": "Coating",
+            "Machine Parameters": "1. Speed of pan. 2. Peristaltic pump RPM",
+            "Process Parameters": "1. Inlet air temp. 2. Bed Temperature. 3. Exhaust Temperature. 4. Spray rate.",
+            "CQA (Critical Quality Attributes)": "Description, Weight of 20 enteric coated tablets, Thickness, Disintegration test Assay Water content Average weight"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "Manufacturing stage",
+          "Machine Parameters",
+          "Process Parameters",
+          "CQA (Critical Quality Attributes)"
+        ],
+        "rows": [
+          {
+            "Manufacturing stage": "",
+            "Machine Parameters": "",
+            "Process Parameters": "",
+            "CQA (Critical Quality Attributes)": "Dissolution"
+          },
+          {
+            "Manufacturing stage": "Blister packing",
+            "Machine Parameters": "1.Forming temp. Sealing roller temp. 2. Speed of blister machine",
+            "Process Parameters": "-",
+            "CQA (Critical Quality Attributes)": "Leak Test"
+          }
+        ]
+      }
+    }
+  ]
+}

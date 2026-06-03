@@ -1,0 +1,4 @@
+SECTION: P 5.1 — SPECIFICATION (one PDF)
+
+SCOPE: Specification(s) for the finished product.
+SOURCE: technical_intelligence.p51.

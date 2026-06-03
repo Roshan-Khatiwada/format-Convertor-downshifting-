@@ -1,0 +1,106 @@
+{
+  "section_code": "p4.2",
+  "dossier_type": "product",
+  "_instruction": "Generate P4.2 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Analytical Procedures\nAnalytical procedures of the excipients used in the manufacturing of Solifenacin Succinate",
+      "section_number": "P 4.2",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "table",
+      "section_title": "P 4.2 Analytical Procedures\nAnalytical procedures of the excipients used in the manufacturing of Solifenacin Succinate",
+      "sn": 3,
+      "content": {
+        "columns": [
+          "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate",
+          "column",
+          "column_1"
+        ],
+        "rows": [
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "Tablets BP 5 mg are compendial and have been analyzed as per the test methods mentioned",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "in the respective monographs.",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "Sr. No.",
+            "column": "Ingredients",
+            "column_1": "Specifications"
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "1",
+            "column": "Lactose Monohydrate",
+            "column_1": "BP"
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "2",
+            "column": "Maize Starch",
+            "column_1": "BP"
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "3",
+            "column": "Hypromellose",
+            "column_1": "BP"
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "4",
+            "column": "Magnesium Stearate",
+            "column_1": "BP"
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "5",
+            "column": "Ready coat 36FO193220",
+            "column_1": "IH"
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "6",
+            "column": "Purified Water",
+            "column_1": "BP"
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "BP: British Pharmacopoeia",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "IH: In House",
+            "column": "",
+            "column_1": ""
+          },
+          {
+            "Analytical procedures of the excipients used in the manufacturing of Solifenacin Succinate": "The analytical procedures used in Solifenacin Succinate Tablets BP 5 mg are enlisted below:",
+            "column": "",
+            "column_1": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 4.2 Analytical Procedures\nAnalytical procedures of the excipients used in the manufacturing of Solifenacin Succinate",
+      "sn": 4,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 4.2 Analytical Procedures\nAnalytical procedures of the excipients used in the manufacturing of Solifenacin Succinate",
+      "sn": 5,
+      "content": "Page 1"
+    }
+  ]
+}

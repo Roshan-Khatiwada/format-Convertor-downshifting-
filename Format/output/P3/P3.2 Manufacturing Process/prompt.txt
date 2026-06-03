@@ -1,0 +1,4 @@
+SECTION: P 3.2 — MANUFACTURING PROCESS AND PROCESS CONTROL (one PDF)
+
+SCOPE: Process description and controls *.
+SOURCE: technical_intelligence.p3.2.

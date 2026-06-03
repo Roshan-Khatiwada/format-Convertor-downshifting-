@@ -1,0 +1,11 @@
+SECTION: P 4.1 Specifications
+
+OUTPUT CONTRACT
+- Root: {"components":[...]} in exact format.json order.
+- text → content (string).
+- table → content with columns and rows.
+
+STRICT RULES
+- List all excipients from the composition with their pharmacopoeial standards.
+- If source has a specification table, extract all rows completely.
+- Never invent test limits or specifications.

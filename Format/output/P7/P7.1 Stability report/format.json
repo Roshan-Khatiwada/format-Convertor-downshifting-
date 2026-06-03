@@ -1,0 +1,10 @@
+{
+  "section_code": "p7.1",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 7 Stability report * (one PDF). Include Zone IVB remark when applicable.",
+  "components": [
+    {"section_code": "P 7", "type": "section_header", "title": "STABILITY", "section_number": "P 7", "section_title": "STABILITY"},
+    {"section_code": "stability_report", "type": "text", "title": "Stability report", "prompt": "ESSENCE: Stability report demonstrating product stability through proposed shelf life *. CONTRACT: Summarize accelerated and long-term results, proposed shelf life and storage conditions. REMARK (when Zone IVB applies): Accelerated at 40°C ± 2°C / 75% ± 5% RH for 6 months; real-time at 30°C ± 2°C / 75% ± 5% RH for proposed shelf life.", "section_number": "a", "section_title": "Stability report"},
+    {"section_code": "stability_data", "type": "table", "columns": ["Storage condition", "Time point", "Test", "Specification", "Result"], "title": "Stability data summary", "prompt": "ESSENCE: Key stability results table from source (time point × test).", "section_number": "b", "section_title": "Stability data summary"}
+  ]
+}

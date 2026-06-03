@@ -1,0 +1,4 @@
+SECTION: P 5.4 — VALIDATION OF ANALYTICAL PROCEDURES (one PDF)
+
+SCOPE: Compendial method verification only.
+SOURCE: technical_intelligence.p5.4.

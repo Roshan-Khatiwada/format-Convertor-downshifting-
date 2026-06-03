@@ -1,0 +1,4 @@
+SECTION: P 3.4 — PROCESS VALIDATION AND / OR EVALUATION (one PDF)
+
+SCOPE: Process validation/evaluation *.
+SOURCE: technical_intelligence.p3.4.

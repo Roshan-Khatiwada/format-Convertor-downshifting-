@@ -1,0 +1,46 @@
+{
+  "section_code": "p9.2",
+  "dossier_type": "product",
+  "_instruction": "Generate P9.2 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "table",
+      "section_title": null,
+      "sn": 2,
+      "content": {
+        "columns": [
+          "P 9 Product Interchangeability"
+        ],
+        "rows": [
+          {
+            "P 9 Product Interchangeability": "P 9.2 CDP Study"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 3,
+      "content": "Enclosed Herewith"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 4,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 5,
+      "content": "Page 1"
+    }
+  ]
+}

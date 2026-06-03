@@ -1,0 +1,4 @@
+SECTION: P 2.3 — MANUFACTURING PROCESS DEVELOPMENT (one PDF)
+
+SCOPE: Process development selection/optimisation only.
+SOURCE: technical_intelligence.p2.3.

@@ -1,0 +1,38 @@
+{
+  "section_code": "p3.1",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 3.1 Batch Formula * (one PDF).",
+  "components": [
+    {
+      "section_code": "P 3.1",
+      "type": "section_header",
+      "title": "BATCH FORMULA",
+      "section_number": "P 3.1",
+      "section_title": "BATCH FORMULA"
+    },
+    {
+      "section_code": "batch_size",
+      "type": "text",
+      "title": "Batch size",
+      "prompt": "ESSENCE: Stated batch size from source.",
+      "section_number": "a",
+      "section_title": "Batch size",
+      "content": "P.3.1 Manufacturer\nLeben Life Sciences Pvt. Ltd."
+    },
+    {
+      "section_code": "formula",
+      "type": "table",
+      "columns": [
+        "Ingredient",
+        "Specification / quality",
+        "Qty. per unit",
+        "Qty. per batch",
+        "Function"
+      ],
+      "title": "Name and quantities of all ingredients",
+      "prompt": "ESSENCE: Complete batch formula — all ingredients with name, quantity (metric), function, quality/specification. CONTRACT: Columns Ingredient, Specification/quality, Quantity per unit, Quantity per batch, Function. Use category_header/sub_tests for process stages when source groups ingredients.",
+      "section_number": "b",
+      "section_title": "Name and quantities of all ingredients"
+    }
+  ]
+}

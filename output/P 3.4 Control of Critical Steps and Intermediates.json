@@ -1,0 +1,134 @@
+{
+  "section_code": "p3.4",
+  "dossier_type": "product",
+  "_instruction": "Generate P3.4 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Control of Critical Steps and Intermediates",
+      "section_number": "P 3.4",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "table",
+      "section_title": "P 3.4 Control of Critical Steps and Intermediates",
+      "sn": 3,
+      "content": {
+        "columns": [
+          "Manufacturing stage",
+          "Machine Parameters",
+          "Process Parameters",
+          "CQA (Critical Quality Attributes)"
+        ],
+        "rows": [
+          {
+            "Manufacturing stage": "Dry Mixing",
+            "Machine Parameters": "1.Speed of impeller",
+            "Process Parameters": "Mixing time",
+            "CQA (Critical Quality Attributes)": "1. Assay"
+          },
+          {
+            "Manufacturing stage": "Wet Granulation (Preparation of wet granules)",
+            "Machine Parameters": "1.Speed of impeller 2.Chopper speed",
+            "Process Parameters": "1.Binder addition time 2.Mixing time",
+            "CQA (Critical Quality Attributes)": "1. Impeller speed: Slow RPM and Fast RPM. 2. Chopper speed: Fast RPM. 3. Impeller Amperage Load"
+          },
+          {
+            "Manufacturing stage": "Drying",
+            "Machine Parameters": "1. Inlet temperature 2. Outlet temperature",
+            "Process Parameters": "1. Drying time",
+            "CQA (Critical Quality Attributes)": "1.Moisture content"
+          },
+          {
+            "Manufacturing stage": "Milling of oversized dried granules",
+            "Machine Parameters": "1.Screen size",
+            "Process Parameters": "1.Milling Speed",
+            "CQA (Critical Quality Attributes)": "1. Consistent dried granules"
+          },
+          {
+            "Manufacturing stage": "Lubrication",
+            "Machine Parameters": "1. Speed of blender",
+            "Process Parameters": "1.Mixing time",
+            "CQA (Critical Quality Attributes)": "1. Assay 2. Water Content 3. TD and BD"
+          },
+          {
+            "Manufacturing stage": "Compression",
+            "Machine Parameters": "1.Speed of Compression Machine 2. Force feeder speed 3. Tonnage",
+            "Process Parameters": "Low hardness High hardness Minimum Speed Optimum Speed Maximum Speed",
+            "CQA (Critical Quality Attributes)": "Average weight Group Weight Thickness Hardness DT Friability Assay Water content"
+          },
+          {
+            "Manufacturing stage": "Coating",
+            "Machine Parameters": "1. Speed of pan. 2. Peristaltic pump RPM",
+            "Process Parameters": "1. Inlet air temp. 2. Bed Temperature. 3. Exhaust Temperature. 4. Spray rate.",
+            "CQA (Critical Quality Attributes)": "Description, Weight of 20 enteric coated tablets, Thickness, Disintegration test Assay Water content Average weight"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.4 Control of Critical Steps and Intermediates",
+      "sn": 4,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.4 Control of Critical Steps and Intermediates",
+      "sn": 5,
+      "content": "Page 1"
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.4 Control of Critical Steps and Intermediates",
+      "sn": 6,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "table",
+      "section_title": "P 3.4 Control of Critical Steps and Intermediates",
+      "sn": 7,
+      "content": {
+        "columns": [
+          "Manufacturing stage",
+          "Machine Parameters",
+          "Process Parameters",
+          "CQA (Critical Quality Attributes)"
+        ],
+        "rows": [
+          {
+            "Manufacturing stage": "",
+            "Machine Parameters": "",
+            "Process Parameters": "",
+            "CQA (Critical Quality Attributes)": "Dissolution"
+          },
+          {
+            "Manufacturing stage": "Blister packing",
+            "Machine Parameters": "1.Forming temp. Sealing roller temp. 2. Speed of blister machine",
+            "Process Parameters": "-",
+            "CQA (Critical Quality Attributes)": "Leak Test"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.4 Control of Critical Steps and Intermediates",
+      "sn": 8,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.4 Control of Critical Steps and Intermediates",
+      "sn": 9,
+      "content": "Page 2"
+    }
+  ]
+}

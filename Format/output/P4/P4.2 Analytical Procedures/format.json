@@ -1,0 +1,10 @@
+{
+  "section_code": "p4.2",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 4.2 ANALYTICAL PROCEDURES * (one PDF).",
+  "components": [
+    {"section_code": "P 4.2", "type": "section_header", "title": "ANALYTICAL PROCEDURES", "section_number": "P 4.2", "section_title": "ANALYTICAL PROCEDURES"},
+    {"section_code": "analytical_intro", "type": "text", "title": "Analytical procedures introduction", "prompt": "ESSENCE: Introductory statement confirming analytical procedures are compendial and per pharmacopoeial monographs. CONTRACT: Use exact source wording. PRESENTATION: Plain text string.", "section_number": "a", "section_title": "Introduction"},
+    {"section_code": "methods_table", "type": "table", "columns": ["Test", "Method reference", "Description"], "title": "Analytical methods for excipients", "prompt": "ESSENCE: Table of analytical methods for each excipient. CONTRACT: Columns = Test | Method reference | Description. One row per excipient test. PRESENTATION: content with columns and rows.", "section_number": "b", "section_title": "Analytical methods"}
+  ]
+}

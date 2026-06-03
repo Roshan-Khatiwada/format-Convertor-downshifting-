@@ -1,0 +1,22 @@
+{
+  "section_code": "p2.5",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 2.5: microbiological attributes where appropriate (one PDF).",
+  "components": [
+    {
+      "section_code": "P 2.6",
+      "type": "section_header",
+      "title": "MICROBIOLOGICAL ATTRIBUTES",
+      "section_number": "P 2.6",
+      "section_title": "MICROBIOLOGICAL ATTRIBUTES"
+    },
+    {
+      "section_code": "micro",
+      "type": "text",
+      "title": "Microbiological attributes",
+      "prompt": "ESSENCE: Microbiological attributes of the dosage form, where appropriate (sterility, bioburden, preservation, antimicrobial effectiveness). CONTRACT: If not applicable for solid oral dosage form, state N/A with brief justification per source. PRESENTATION: Plain text.",
+      "section_number": "a",
+      "section_title": "Microbiological attributes"
+    }
+  ]
+}

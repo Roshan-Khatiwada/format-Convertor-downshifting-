@@ -1,0 +1,9 @@
+{
+  "section_code": "p4.4",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 4.4 Novel Excipients.",
+  "components": [
+    {"section_code": "P 4.4", "type": "section_header", "title": "NOVEL EXCIPIENTS", "section_number": "P 4.4", "section_title": "NOVEL EXCIPIENTS"},
+    {"section_code": "novel_statement", "type": "text", "title": "Novel excipients", "prompt": "ESSENCE: Declare usage of any novel excipients. CONTRACT: Use explicit source statement only. If no novel excipients, output exactly 'Not Applicable.' If present, name only those excipient(s) with concise source-grounded justification. PRESENTATION: Plain text (1-2 lines max).", "section_number": "a", "section_title": "Novel excipients"}
+  ]
+}

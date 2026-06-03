@@ -1,0 +1,42 @@
+{
+  "section_code": "p5.1",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 5.1 SPECIFICATION * (one PDF).",
+  "components": [
+    {
+      "section_code": "P 5",
+      "type": "section_header",
+      "title": "CONTROL OF FINISHED PRODUCT",
+      "section_number": "P 5",
+      "section_title": "CONTROL OF FINISHED PRODUCT"
+    },
+    {
+      "section_code": "P 5.1",
+      "type": "section_header",
+      "title": "SPECIFICATION",
+      "section_number": "P 5.1",
+      "section_title": "SPECIFICATION"
+    },
+    {
+      "section_code": "finished_product_spec",
+      "type": "text",
+      "title": "Specification(s) for the finished product",
+      "prompt": "ESSENCE: Finished product specification(s) *. CONTRACT: Full spec table — tests, methods, limits from source.",
+      "section_number": "a",
+      "section_title": "Specification(s) for the finished product"
+    },
+    {
+      "section_code": "spec_table",
+      "type": "table",
+      "columns": [
+        "SR. NO.",
+        "Test parameters",
+        "Specifications"
+      ],
+      "title": "Finished product specification",
+      "prompt": "ESSENCE: Specification table. Columns: SR. NO., Test parameters, Specifications. Use category_header/sub_tests for grouped tests (dissolution, related substances).",
+      "section_number": "b",
+      "section_title": "Finished product specification"
+    }
+  ]
+}

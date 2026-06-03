@@ -1,0 +1,13 @@
+SECTION: P 1.1 Description — Dosage form and characteristics (one PDF)
+
+SCOPE
+- Physical description / appearance of the finished product.
+- Dosage form statement.
+- Do NOT include packaging, container closure, reconstitution diluent, or composition tables (those are separate P 1.1 / P 1.2 PDFs).
+
+OUTPUT CONTRACT
+- Order: section headers, then description (a), then dosage_form (b).
+- text → top-level `content` string.
+
+SOURCE
+- technical_intelligence.p1, common_info (product identity, dosage form, appearance).

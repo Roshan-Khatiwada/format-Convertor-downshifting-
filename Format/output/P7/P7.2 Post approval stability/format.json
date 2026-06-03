@@ -1,0 +1,9 @@
+{
+  "section_code": "p7.2",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 7 post-approval stability commitment (one PDF).",
+  "components": [
+    {"section_code": "P 7", "type": "section_header", "title": "STABILITY", "section_number": "P 7", "section_title": "STABILITY"},
+    {"section_code": "commitment", "type": "text", "title": "Commitment on post approval stability monitoring", "prompt": "ESSENCE: Commitment on post-approval stability monitoring (protocol, frequency, storage conditions). CONTRACT: Verbatim commitment language from source.", "section_number": "a", "section_title": "Commitment on post approval stability monitoring"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "section_code": "p5.4",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 5.4 Verification of compendial method (one PDF).",
+  "components": [
+    {"section_code": "P 5.3", "type": "section_header", "title": "VALIDATION OF ANALYTICAL PROCEDURES", "section_number": "P 5.3", "section_title": "VALIDATION OF ANALYTICAL PROCEDURES"},
+    {"section_code": "compendial_verification", "type": "text", "title": "Verification of compendial method applicability", "prompt": "ESSENCE: Verification of compendial method applicability — precision and accuracy. CONTRACT: USP/BP verification summary per compendial method from source.", "section_number": "a", "section_title": "Verification of compendial method applicability"}
+  ]
+}

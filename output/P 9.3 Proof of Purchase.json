@@ -1,0 +1,707 @@
+{
+  "section_code": "p9.3",
+  "dossier_type": "product",
+  "_instruction": "Generate P9.3 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "section_header",
+      "section_title": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg",
+      "section_number": null,
+      "sn": 1,
+      "content": null
+    },
+    {
+      "type": "section_header",
+      "section_title": "Product Interchangeability",
+      "section_number": "P 9",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "section_header",
+      "section_title": "Proof of Purchase",
+      "section_number": "P 9.3",
+      "sn": 3,
+      "content": null
+    },
+    {
+      "type": "section_header",
+      "section_title": "Enclosed Herewith",
+      "section_number": null,
+      "sn": 4,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 5,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 6,
+      "content": "Page 1"
+    },
+    {
+      "type": "figure",
+      "sn": 7,
+      "page": 2,
+      "caption": null,
+      "content": {
+        "file": "output\\figures\\p_9.3_proof_of_purchase_p2_1.jpeg"
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 8,
+      "content": "privaposervices GmbH, Königstr. 12, 25335 Elmshorn\nLeben Life Sciences Pvt. Ltd.\nPlot No. C-20/1 & C-21, Phase III\nM.I.D.C.\nAkola – 444104\nIndia"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 9,
+      "content": "14 June 2022"
+    },
+    {
+      "type": "table",
+      "section_title": "Enclosed Herewith",
+      "sn": 10,
+      "content": {
+        "columns": [
+          "Quantity",
+          "Description",
+          "Batch Number",
+          "Expiry Date",
+          "Price per pack",
+          "Amount"
+        ],
+        "rows": [
+          {
+            "Quantity": "15 packs (120 tablets)",
+            "Description": "Sporanox 100mg (Itraconazole) Pack size: 8 capsules MAH and manufacturer: Janssen-Cilag MA No.: 027808017",
+            "Batch Number": "MAL8C00",
+            "Expiry Date": "12/2024",
+            "Price per pack": "EUR 19.00",
+            "Amount": "EUR 285.00"
+          },
+          {
+            "Quantity": "1 pack (100 hard capsules)",
+            "Description": "Lyrica 150mg (Pregabalin) Pack size: 100 hard capsules (blister) MAH: Upjohn EESV Manufacturer: Pfizer Manufacturing Deutschland GmbH EU/1/04/279/040",
+            "Batch Number": "FN2538",
+            "Expiry Date": "09/2024",
+            "Price per pack": "EUR 159.00",
+            "Amount": "EUR 159.00"
+          },
+          {
+            "Quantity": "2 packs (168 hard capsules)",
+            "Description": "Lyrica 200mg (Pregabalin) Pack size: 84 hard capsules (blister) MAH: Upjohn EESV Manufacturer: Pfizer Manufacturing Deutschland GmbH EU/1/04/279/021",
+            "Batch Number": "FP5957",
+            "Expiry Date": "08/2024",
+            "Price per pack": "EUR 297.00",
+            "Amount": "EUR 594.00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section_title": "Enclosed Herewith",
+      "sn": 11,
+      "content": {
+        "columns": [
+          "MAH: Upjohn EESV"
+        ],
+        "rows": [
+          {
+            "MAH: Upjohn EESV": "Manufacturer:"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section_title": "Enclosed Herewith",
+      "sn": 12,
+      "content": {
+        "columns": [
+          "MAH: Upjohn EESV"
+        ],
+        "rows": [
+          {
+            "MAH: Upjohn EESV": "Manufacturer:"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 13,
+      "content": "Medical samples for testing purposes"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 14,
+      "content": "Quantity\nDescription\nBatch\nNumber"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 15,
+      "content": "Expiry"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 16,
+      "content": "Price per"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 17,
+      "content": "Amount"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 18,
+      "content": "Date"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 19,
+      "content": "pack"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 20,
+      "content": "15 packs"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 21,
+      "content": "Sporanox 100mg\n( Itraconazole)\nPack size: 8 capsules\nMAH and\nmanufacturer:\nJanssen-Cilag\nMA No.: 027808017"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 22,
+      "content": "MAL8C00"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 23,
+      "content": "12/2024"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 24,
+      "content": "EUR 19.00"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 25,
+      "content": "EUR 285.00"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 26,
+      "content": "(120\ntablets)"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 27,
+      "content": "1 pack\n(100 hard"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 28,
+      "content": "Lyrica 150mg\n(Pregabalin)\nPack size: 100 hard\ncapsules (blister)\nMAH: Upjohn EESV\nManufacturer: Pfizer\nManufacturing\nDeutschland GmbH\nEU/1/04/279/040"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 29,
+      "content": "FN2538"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 30,
+      "content": "09/2024"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 31,
+      "content": "EUR 159.00"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 32,
+      "content": "EUR 159.00"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 33,
+      "content": "capsules)"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 34,
+      "content": "2 packs\n(168 hard"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 35,
+      "content": "Lyrica 200mg\n(Pregabalin)\nPack size: 84 hard\ncapsules (blister)\nMAH: Upjohn EESV\nManufacturer: Pfizer\nManufacturing\nDeutschland GmbH\nEU/1/04/279/021"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 36,
+      "content": "FP5957"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 37,
+      "content": "08/2024"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 38,
+      "content": "EUR 297.00"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 39,
+      "content": "EUR 594.00"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 40,
+      "content": "capsules)"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 41,
+      "content": "____________________________________________________________________"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 42,
+      "content": "privaposervices GmbH · Königstrasse 12 · 25335 Elmshorn"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 43,
+      "content": "Tel.: 0049 4121 2613420 · Fax: 0049 4121 2613421\nLocal Court Pinneberg Nummer HRB 9594 PI · VAT ID DE280893397"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 44,
+      "content": "Sparkasse Elmshorn · IBAN: DE44 2215 0000 0111 0282 62"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 45,
+      "content": "SWIFT-BIC: NOLADE21ELH"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 46,
+      "content": "Page 2 of our Invoice No. GH-131 479-85 dated 14.06.2022"
+    },
+    {
+      "type": "table",
+      "section_title": "Enclosed Herewith",
+      "sn": 47,
+      "content": {
+        "columns": [
+          "1 pack (100 hard capsules)",
+          "Lyrica 75mg (Pregabalin) Pack size: 100 hard capsules (blister) MAH: Upjohn EESV Manufacturer: Pfizer Manufacturing Deutschland GmbH EU/1/04/279/038",
+          "FK3730",
+          "09/2024",
+          "EUR 158.00",
+          "EUR 158.00_1"
+        ],
+        "rows": [
+          {
+            "1 pack (100 hard capsules)": "11 packs",
+            "Lyrica 75mg (Pregabalin) Pack size: 100 hard capsules (blister) MAH: Upjohn EESV Manufacturer: Pfizer Manufacturing Deutschland GmbH EU/1/04/279/038": "Lamisil cream 10mg/g (Terbinafine Hydrochloride) Pack size: 30g GSK MA No.: 26373.00.00",
+            "FK3730": "N88L",
+            "09/2024": "01/2025",
+            "EUR 158.00": "EUR 17.00",
+            "EUR 158.00_1": "EUR 187.00"
+          },
+          {
+            "1 pack (100 hard capsules)": "2 packs (112 gastro- resistant tablets)",
+            "Lyrica 75mg (Pregabalin) Pack size: 100 hard capsules (blister) MAH: Upjohn EESV Manufacturer: Pfizer Manufacturing Deutschland GmbH EU/1/04/279/038": "Pantoloc 40mg (Pantoprazole) Pack size: 56 gastro- resistant tablets MAH and manufacturer: Takeda GmbH MA No.: 40718.00.00",
+            "FK3730": "495655",
+            "09/2024": "01/2024",
+            "EUR 158.00": "EUR 98.00",
+            "EUR 158.00_1": "EUR 196.00"
+          },
+          {
+            "1 pack (100 hard capsules)": "6 packs (120 tablets)",
+            "Lyrica 75mg (Pregabalin) Pack size: 100 hard capsules (blister) MAH: Upjohn EESV Manufacturer: Pfizer Manufacturing Deutschland GmbH EU/1/04/279/038": "Panadol 500mg Pack size: 20 film- coated tablets MAH: GlaxoSmithKline Consumer Healthcare B.V. MA No.: RVG 112182",
+            "FK3730": "SC4M",
+            "09/2024": "12/2024",
+            "EUR 158.00": "EUR 19.00",
+            "EUR 158.00_1": "EUR 114.00"
+          },
+          {
+            "1 pack (100 hard capsules)": "2 packs (112 gastro- resistant tablets)",
+            "Lyrica 75mg (Pregabalin) Pack size: 100 hard capsules (blister) MAH: Upjohn EESV Manufacturer: Pfizer Manufacturing Deutschland GmbH EU/1/04/279/038": "Pariet 20mg (Rabeprazole) Pack size: 56 gastro- resistant tablets MAH and manufacturer: Eisai MA No.: 44258.01.00",
+            "FK3730": "133121",
+            "09/2024": "09/2023",
+            "EUR 158.00": "EUR 37.00",
+            "EUR 158.00_1": "EUR 74.00"
+          },
+          {
+            "1 pack (100 hard capsules)": "4 packs (112 film- coated tablets)",
+            "Lyrica 75mg (Pregabalin) Pack size: 100 hard capsules (blister) MAH: Upjohn EESV Manufacturer: Pfizer Manufacturing Deutschland GmbH EU/1/04/279/038": "Januvia 100mg (Sitagliptin) Pack size: 28 film- coated tablets MSD EU/1/07/383/014",
+            "FK3730": "U025529",
+            "09/2024": "07/2024",
+            "EUR 158.00": "EUR 49.00",
+            "EUR 158.00_1": "EUR 196.00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section_title": "Enclosed Herewith",
+      "sn": 48,
+      "content": {
+        "columns": [
+          "MAH: Upjohn EESV"
+        ],
+        "rows": [
+          {
+            "MAH: Upjohn EESV": "Manufacturer:"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 49,
+      "content": "____________________________________________________________________"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 50,
+      "content": "privaposervices GmbH · Königstrasse 12 · 25335 Elmshorn"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 51,
+      "content": "Tel.: 0049 4121 2613420 · Fax: 0049 4121 2613421\nLocal Court Pinneberg Nummer HRB 9594 PI · VAT ID DE280893397"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 52,
+      "content": "Sparkasse Elmshorn · IBAN: DE44 2215 0000 0111 0282 62"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 53,
+      "content": "SWIFT-BIC: NOLADE21ELH"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 54,
+      "content": "Page 2 of our Invoice No. GH-131 479-85 dated 14.06.2022"
+    },
+    {
+      "type": "table",
+      "section_title": "Enclosed Herewith",
+      "sn": 55,
+      "content": {
+        "columns": [
+          "4 packs (112 film- coated tablets)",
+          "Januvia 25mg (Sitagliptin) Pack size: 28 film- coated tablets MSD EU/1/07/383/002",
+          "U018395",
+          "01/2024",
+          "EUR 48.00",
+          "EUR 192.00"
+        ],
+        "rows": [
+          {
+            "4 packs (112 film- coated tablets)": "4 packs (112 film- coated tablets)",
+            "Januvia 25mg (Sitagliptin) Pack size: 28 film- coated tablets MSD EU/1/07/383/002": "Januvia 50mg (Sitagliptin) Pack size: 28 film- coated tablets MSD EU/1/07/383/008",
+            "U018395": "U022475",
+            "01/2024": "07/2024",
+            "EUR 48.00": "EUR 47.00",
+            "EUR 192.00": "EUR 188.00"
+          },
+          {
+            "4 packs (112 film- coated tablets)": "4 packs (120 film- coated tablets)",
+            "Januvia 25mg (Sitagliptin) Pack size: 28 film- coated tablets MSD EU/1/07/383/002": "Vesicare 10mg (Solifenacin succinate) Pack size: 30 film- coated tablets MAH and manufacturer: Astellas MA No.: 59808.01.00",
+            "U018395": "21F1122",
+            "01/2024": "05/2024",
+            "EUR 48.00": "EUR 30.00",
+            "EUR 192.00": "EUR 120.00"
+          },
+          {
+            "4 packs (112 film- coated tablets)": "4 packs (120 film- coated tablets)",
+            "Januvia 25mg (Sitagliptin) Pack size: 28 film- coated tablets MSD EU/1/07/383/002": "Vesicare 5mg (Solifenacin succinate) Pack size: 30 film- coated tablets MAH and manufacturer: Astellas MA No.: 59808.00.00",
+            "U018395": "21E1009",
+            "01/2024": "04/2024",
+            "EUR 48.00": "EUR 24.00",
+            "EUR 192.00": "EUR 96.00"
+          },
+          {
+            "4 packs (112 film- coated tablets)": "4 packs (112 tablets)",
+            "Januvia 25mg (Sitagliptin) Pack size: 28 film- coated tablets MSD EU/1/07/383/002": "Galvus 50mg (Vildagliptine) Pack size: 28 tablets MAH: Novartis Europharm Limited Manufacturer: Lek d.d. / Slovenia // Novartis Farmacéutica S.A. / Spain // Novartis Pharma GmbH / Germany EU/1/07/414/003",
+            "U018395": "BWN89",
+            "01/2024": "12/2023",
+            "EUR 48.00": "EUR 45.00",
+            "EUR 192.00": "EUR 180.00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 56,
+      "content": "____________________________________________________________________"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 57,
+      "content": "privaposervices GmbH · Königstrasse 12 · 25335 Elmshorn"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 58,
+      "content": "Tel.: 0049 4121 2613420 · Fax: 0049 4121 2613421\nLocal Court Pinneberg Nummer HRB 9594 PI · VAT ID DE280893397"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 59,
+      "content": "Sparkasse Elmshorn · IBAN: DE44 2215 0000 0111 0282 62"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 60,
+      "content": "SWIFT-BIC: NOLADE21ELH"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 61,
+      "content": "Page 2 of our Invoice No. GH-131 479-85 dated 14.06.2022"
+    },
+    {
+      "type": "table",
+      "section_title": "Enclosed Herewith",
+      "sn": 62,
+      "content": {
+        "columns": [
+          "4 packs (112 hard capsules)",
+          "Prozac 20mg (Fluoxetine) Pack size: 28 hard capsules ELI LILLY MA No.: 025970043",
+          "21250A",
+          "10/2024",
+          "EUR 36.00",
+          "EUR 144.00"
+        ],
+        "rows": [
+          {
+            "4 packs (112 hard capsules)": "7 packs",
+            "Prozac 20mg (Fluoxetine) Pack size: 28 hard capsules ELI LILLY MA No.: 025970043": "Diprosone Cream, 0.64mg/g cream (Betamethasone dipropionate) Pack size: 50g Organon MA No.: 6451205.00.02",
+            "21250A": "U039128",
+            "10/2024": "10/2024",
+            "EUR 36.00": "EUR 18.00",
+            "EUR 144.00": "EUR 126.00"
+          },
+          {
+            "4 packs (112 hard capsules)": "18 packs",
+            "Prozac 20mg (Fluoxetine) Pack size: 28 hard capsules ELI LILLY MA No.: 025970043": "Canesten cream 10mg/g (Clotrimazole) Pack size: 20g MAH: Bayer Vital GmbH Manufacturer: Kern Pharma, S.L. MA No.: 6070101.00.00",
+            "21250A": "GP02BNE",
+            "10/2024": "02/2025",
+            "EUR 36.00": "EUR 10.00",
+            "EUR 144.00": "EUR 180.00"
+          },
+          {
+            "4 packs (112 hard capsules)": "12 packs",
+            "Prozac 20mg (Fluoxetine) Pack size: 28 hard capsules ELI LILLY MA No.: 025970043": "Daktarin cream 20mg/2g (Miconazole Nitrate 2% cream) Pack size: 30g MAH: EMRA-MED Manufacturer: Janssen Pharmaceutica MA No.: 56833.00.00",
+            "21250A": "LFB1300",
+            "10/2024": "05/2023",
+            "EUR 36.00": "EUR 8.00",
+            "EUR 144.00": "EUR 96.00"
+          },
+          {
+            "4 packs (112 hard capsules)": "TOTAL",
+            "Prozac 20mg (Fluoxetine) Pack size: 28 hard capsules ELI LILLY MA No.: 025970043": "",
+            "21250A": "",
+            "10/2024": "",
+            "EUR 36.00": "",
+            "EUR 144.00": "EUR 3,285.00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 63,
+      "content": "Payment Terms: advance payment – already received!\nDelivery terms: EXW"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 64,
+      "content": "Tax free delivery §4 (1a) UStG\nImport into India is covered under OGL"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 65,
+      "content": "____________________________________________________________________"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 66,
+      "content": "privaposervices GmbH · Königstrasse 12 · 25335 Elmshorn"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 67,
+      "content": "Tel.: 0049 4121 2613420 · Fax: 0049 4121 2613421\nLocal Court Pinneberg Nummer HRB 9594 PI · VAT ID DE280893397"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 68,
+      "content": "Sparkasse Elmshorn · IBAN: DE44 2215 0000 0111 0282 62"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 69,
+      "content": "SWIFT-BIC: NOLADE21ELH"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 70,
+      "content": "Page 2 of our Invoice No. GH-131 479-85 dated 14.06.2022"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 71,
+      "content": "Item does not appear in the negative or restricted list as per export import policy 2015-\n2020.\nThank you for using our service!"
+    },
+    {
+      "type": "figure",
+      "sn": 72,
+      "page": 6,
+      "caption": null,
+      "content": {
+        "file": "output\\figures\\p_9.3_proof_of_purchase_p6_2.jpeg"
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 73,
+      "content": "____________________________________________________________________"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 74,
+      "content": "privaposervices GmbH · Königstrasse 12 · 25335 Elmshorn"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 75,
+      "content": "Tel.: 0049 4121 2613420 · Fax: 0049 4121 2613421\nLocal Court Pinneberg Nummer HRB 9594 PI · VAT ID DE280893397"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 76,
+      "content": "Sparkasse Elmshorn · IBAN: DE44 2215 0000 0111 0282 62"
+    },
+    {
+      "type": "text",
+      "section_title": "Enclosed Herewith",
+      "sn": 77,
+      "content": "SWIFT-BIC: NOLADE21ELH"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Comparator (Innovator) Product Details",
+      "section_number": null,
+      "sn": 78,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "Comparator (Innovator) Product Details",
+      "sn": 79,
+      "content": "Product Name: Vesicare 5mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Astellas Pharma Europe B.V.",
+      "section_number": null,
+      "sn": 80,
+      "content": null
+    },
+    {
+      "type": "figure",
+      "sn": 81,
+      "page": 7,
+      "caption": null,
+      "content": {
+        "file": "output\\figures\\p_9.3_proof_of_purchase_p7_1.jpeg"
+      }
+    }
+  ]
+}

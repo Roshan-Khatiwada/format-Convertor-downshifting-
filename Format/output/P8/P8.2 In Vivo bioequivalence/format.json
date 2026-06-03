@@ -1,0 +1,11 @@
+{
+  "section_code": "p8.2",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 8 In Vivo bioequivalence (Generic Only).",
+  "components": [
+    {"section_code": "P 8", "type": "section_header", "title": "PRODUCT INTERCHANGEABILITY (GENERIC ONLY)", "section_number": "P 8", "section_title": "PRODUCT INTERCHANGEABILITY (GENERIC ONLY)"},
+    {"section_code": "equivalence_invivo", "type": "section_header", "title": "EQUIVALENCE EVIDENCE — IN VIVO", "section_number": "P 8", "section_title": "EQUIVALENCE EVIDENCE — IN VIVO"},
+    {"section_code": "be_study", "type": "text", "title": "Bioequivalence study", "prompt": "ESSENCE: In Vivo — bioequivalence study as required for generic products. CONTRACT: Test/reference details, PK parameters, BE conclusion per source.", "section_number": "a", "section_title": "Bioequivalence study"},
+    {"section_code": "be_data", "type": "table", "columns": ["Parameter", "Test product", "Reference product", "Ratio", "90% CI", "Conclusion"], "title": "Bioequivalence results", "prompt": "ESSENCE: PK parameters table for BE study from source.", "section_number": "b", "section_title": "Bioequivalence results"}
+  ]
+}

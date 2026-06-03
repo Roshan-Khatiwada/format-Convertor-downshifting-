@@ -1,0 +1,37 @@
+{
+  "section_code": "p1.1",
+  "dossier_type": "product",
+  "_instruction": "Drug Product Description — dosage form and characteristics only. Order: header, description, dosage_form.",
+  "components": [
+    {
+      "section_code": "P 1.1",
+      "type": "section_header",
+      "title": "DESCRIPTION",
+      "section_number": "P 1.1",
+      "section_title": "DESCRIPTION"
+    },
+    {
+      "section_code": "P 1.1.1",
+      "type": "section_header",
+      "title": "Dosage form and characteristics",
+      "section_number": "P 1.1.1",
+      "section_title": "Dosage form and characteristics"
+    },
+    {
+      "section_code": "description",
+      "type": "text",
+      "title": "Description",
+      "prompt": "ESSENCE: Physical description and appearance of the drug product (colour, shape, markings, imprint, etc.). CONTRACT: Narrative text only; do not include packaging, container, shelf life, or composition tables. SOURCE: technical_intelligence.p1 and common_info product description fields.",
+      "section_number": "a",
+      "section_title": "Description"
+    },
+    {
+      "section_code": "dosage_form",
+      "type": "text",
+      "title": "Dosage Form",
+      "prompt": "ESSENCE: Stated dosage form (e.g. film-coated tablet, hard gelatin capsule). CONTRACT: Single clear dosage-form statement from source. Do not duplicate full composition or packaging text.",
+      "section_number": "b",
+      "section_title": "Dosage Form"
+    }
+  ]
+}

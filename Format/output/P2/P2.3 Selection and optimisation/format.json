@@ -1,0 +1,31 @@
+{
+  "section_code": "p2.3",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 2.3: selection and optimisation of manufacturing process (one PDF).",
+  "components": [
+    {
+      "section_code": "P 2.4",
+      "type": "section_header",
+      "title": "MANUFACTURING PROCESS DEVELOPMENT",
+      "section_number": "P 2.4",
+      "section_title": "MANUFACTURING PROCESS DEVELOPMENT"
+    },
+    {
+      "section_code": "overview",
+      "type": "text",
+      "title": "Selection and optimisation of the manufacturing process",
+      "prompt": "ESSENCE: Selection and optimisation of the manufacturing process (process choice, development studies, design space rationale). CONTRACT: From source only; include process flow narrative and key optimisation conclusions.",
+      "section_number": "a",
+      "section_title": "Selection and optimisation of the manufacturing process"
+    },
+    {
+      "section_code": "process_flow",
+      "type": "table",
+      "columns": ["Step", "Operation", "Key parameters / notes"],
+      "title": "Manufacturing process overview",
+      "prompt": "ESSENCE: Process steps table when source provides tabulated flow. CONTRACT: Columns Step, Operation, Key parameters/notes. Empty rows if narrative-only source.",
+      "section_number": "b",
+      "section_title": "Manufacturing process overview"
+    }
+  ]
+}

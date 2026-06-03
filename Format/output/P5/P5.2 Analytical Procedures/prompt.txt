@@ -1,0 +1,4 @@
+SECTION: P 5.2 — ANALYTICAL PROCEDURES (one PDF)
+
+SCOPE: Analytical procedures used for testing the finished product.
+SOURCE: technical_intelligence.p52.

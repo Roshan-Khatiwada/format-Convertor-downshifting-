@@ -1,0 +1,31 @@
+{
+  "section_code": "p3.2",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 3.2 Manufacturing process and process control * (one PDF).",
+  "components": [
+    {
+      "section_code": "P 3.2",
+      "type": "section_header",
+      "title": "MANUFACTURING PROCESS AND PROCESS CONTROL",
+      "section_number": "P 3.2",
+      "section_title": "MANUFACTURING PROCESS AND PROCESS CONTROL"
+    },
+    {
+      "section_code": "process",
+      "type": "text",
+      "title": "Description of manufacturing process and process control",
+      "prompt": "ESSENCE: Description of manufacturing process and in-process controls. CONTRACT: Stepwise narrative aligned to source SMP/BMR; include IPC tests and acceptance criteria where stated.",
+      "section_number": "a",
+      "section_title": "Description of manufacturing process and process control"
+    },
+    {
+      "section_code": "ipc",
+      "type": "table",
+      "columns": ["Stage", "Control", "Acceptance criteria"],
+      "title": "In-process controls",
+      "prompt": "ESSENCE: IPC table when source tabulates controls. Columns: Stage, Control, Acceptance criteria.",
+      "section_number": "b",
+      "section_title": "In-process controls"
+    }
+  ]
+}

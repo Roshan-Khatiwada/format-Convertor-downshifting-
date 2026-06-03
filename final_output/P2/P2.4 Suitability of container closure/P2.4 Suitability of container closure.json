@@ -1,0 +1,23 @@
+{
+  "section_code": "p2.4",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 2.4: suitability of container closure for storage, shipping, and use (one PDF).",
+  "components": [
+    {
+      "section_code": "P 2.5",
+      "type": "section_header",
+      "title": "CONTAINER CLOSURE SYSTEM",
+      "section_number": "P 2.5",
+      "section_title": "CONTAINER CLOSURE SYSTEM"
+    },
+    {
+      "section_code": "suitability",
+      "type": "text",
+      "title": "Suitability of the container closure system",
+      "prompt": "ESSENCE: Suitability of the container closure system for storage, transportation (shipping), and use of the finished product. CONTRACT: Material, configuration, compatibility, moisture/light protection, child-resistance if stated. PRESENTATION: Plain text from source.",
+      "section_number": "a",
+      "section_title": "Suitability of the container closure system",
+      "content": "The manufacturing process for Solifenacin Succinate Tablets BP 5 mg involves several key stages, starting with the\nprecise weighing and dispensing of all raw materials. This is followed by the dry mixing of the active pharmaceutical\ningredient (API), diluents, and binder. Wet granulation is then performed by adding the binder solution. The resultant\ngranules are dried and subsequently sized to achieve the desired particle distribution. Lubrication is carried out by\nadding magnesium stearate before the core tablets are compressed. Finally, the compressed tablets undergo film\ncoating with a suspension containing Readycoat Iron Oxide Yellow, followed by drying of the coated tablets. The\nfinished product is then inspected and packaged."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "section_code": "p8.1",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 8 In Vitro comparative dissolution (Generic Only).",
+  "components": [
+    {"section_code": "P 8", "type": "section_header", "title": "PRODUCT INTERCHANGEABILITY (GENERIC ONLY)", "section_number": "P 8", "section_title": "PRODUCT INTERCHANGEABILITY (GENERIC ONLY)"},
+    {"section_code": "equivalence", "type": "section_header", "title": "EQUIVALENCE EVIDENCE — IN VITRO", "section_number": "P 8", "section_title": "EQUIVALENCE EVIDENCE — IN VITRO"},
+    {"section_code": "dissolution", "type": "text", "title": "Comparative dissolution", "prompt": "ESSENCE: In Vitro — comparative dissolution study as required. CONTRACT: Test vs reference product, media, apparatus, f2/similarity conclusion per source.", "section_number": "a", "section_title": "Comparative dissolution"},
+    {"section_code": "dissolution_data", "type": "table", "columns": ["Parameter", "Test product", "Reference product", "Requirement / conclusion"], "title": "Dissolution results", "prompt": "ESSENCE: Dissolution data table when source provides comparative results.", "section_number": "b", "section_title": "Dissolution results"}
+  ]
+}

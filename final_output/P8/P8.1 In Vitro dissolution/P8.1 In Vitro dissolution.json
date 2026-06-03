@@ -1,0 +1,239 @@
+{
+  "section_code": "p8.1",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 8 In Vitro comparative dissolution (Generic Only).",
+  "components": [
+    {
+      "section_code": "P 8",
+      "type": "section_header",
+      "title": "PRODUCT INTERCHANGEABILITY (GENERIC ONLY)",
+      "section_number": "P 8",
+      "section_title": "PRODUCT INTERCHANGEABILITY (GENERIC ONLY)"
+    },
+    {
+      "section_code": "equivalence",
+      "type": "section_header",
+      "title": "EQUIVALENCE EVIDENCE — IN VITRO",
+      "section_number": "P 8",
+      "section_title": "EQUIVALENCE EVIDENCE — IN VITRO"
+    },
+    {
+      "section_code": "dissolution",
+      "type": "text",
+      "title": "Comparative dissolution",
+      "prompt": "ESSENCE: In Vitro — comparative dissolution study as required. CONTRACT: Test vs reference product, media, apparatus, f2/similarity conclusion per source.",
+      "section_number": "a",
+      "section_title": "Comparative dissolution"
+    },
+    {
+      "section_code": "dissolution_data",
+      "type": "table",
+      "columns": [
+        "Parameter",
+        "Test product",
+        "Reference product",
+        "Requirement / conclusion"
+      ],
+      "title": "Dissolution results",
+      "prompt": "ESSENCE: Dissolution data table when source provides comparative results.",
+      "section_number": "b",
+      "section_title": "Dissolution results"
+    },
+    {
+      "type": "table",
+      "content": {
+        "columns": [
+          "Protocol",
+          "column",
+          "column_1",
+          "Description",
+          "column_2"
+        ],
+        "rows": [
+          {
+            "Protocol": "Name of product",
+            "column": "",
+            "column_1": "",
+            "Description": "Solifenacin Succinate Tablets BP 5 mg",
+            "column_2": ""
+          },
+          {
+            "Protocol": "Container closure system",
+            "column": "",
+            "column_1": "",
+            "Description": "ALU/ALU Blister pack of 10 tablets.",
+            "column_2": ""
+          },
+          {
+            "Protocol": "Mother Batch Size",
+            "column": "",
+            "column_1": "",
+            "Description": "1,20,000 Tablets",
+            "column_2": ""
+          },
+          {
+            "Protocol": "Stability conditions",
+            "column": "",
+            "column_1": "",
+            "Description": "Accelerated conditions (40°C ± 2°C / 75% RH ± 5% RH)",
+            "column_2": ""
+          },
+          {
+            "Protocol": "Frequency",
+            "column": "",
+            "column_1": "",
+            "Description": "Initial, 1,2,3 and 6 Months",
+            "column_2": ""
+          },
+          {
+            "Protocol": "Stability conditions",
+            "column": "",
+            "column_1": "",
+            "Description": "Long term (30°C ± 2°C / 75% RH ± 5% RH)",
+            "column_2": ""
+          },
+          {
+            "Protocol": "Frequency",
+            "column": "",
+            "column_1": "",
+            "Description": "Initial, 3 Months, 6 Months, 9 Months, 12 Months, 18 Months, 24 months, 36 Months",
+            "column_2": ""
+          },
+          {
+            "Protocol": "Storage",
+            "column": "",
+            "column_1": "",
+            "Description": "Store below 30° C, in dark & dry place.",
+            "column_2": ""
+          },
+          {
+            "Protocol": "",
+            "column": "Following are the stability indicating tests and specifications that are carried out on the",
+            "column_1": "",
+            "Description": "",
+            "column_2": ""
+          },
+          {
+            "Protocol": "",
+            "column": "samples of Solifenacin Succinate Tablets BP 5 mg kept for long term and accelerated stability",
+            "column_1": "",
+            "Description": "",
+            "column_2": ""
+          },
+          {
+            "Protocol": "",
+            "column": "studies.",
+            "column_1": "",
+            "Description": "",
+            "column_2": ""
+          },
+          {
+            "Protocol": "Sr. No.",
+            "column": "",
+            "column_1": "Ingredients",
+            "Description": "",
+            "column_2": "Specifications"
+          },
+          {
+            "Protocol": "1.",
+            "column": "",
+            "column_1": "Description",
+            "Description": "",
+            "column_2": "Light yellow coloured, round shaped, film coated tablet, plain on both sides. Such 10 tablets packed in ALU/ALU Blister."
+          },
+          {
+            "Protocol": "2.",
+            "column": "",
+            "column_1": "Dissolution",
+            "Description": "",
+            "column_2": "NLT 75% (Q)"
+          },
+          {
+            "Protocol": "3.",
+            "column": "",
+            "column_1": "Disintegration Time",
+            "Description": "",
+            "column_2": "NMT 30 min."
+          },
+          {
+            "Protocol": "4.",
+            "column": "",
+            "column_1": "Hardness",
+            "Description": "",
+            "column_2": "NLT 3 kp"
+          },
+          {
+            "Protocol": "5.",
+            "column": "",
+            "column_1": "Assay",
+            "Description": "",
+            "column_2": "95.0% to 105.0% of the stated amount."
+          },
+          {
+            "Protocol": "6.",
+            "column": "",
+            "column_1": "Related Substances By HPLC",
+            "Description": "",
+            "column_2": ""
+          },
+          {
+            "Protocol": "",
+            "column": "",
+            "column_1": "Impurity I",
+            "Description": "",
+            "column_2": "NMT 1.5%"
+          },
+          {
+            "Protocol": "",
+            "column": "",
+            "column_1": "Impurity 1",
+            "Description": "",
+            "column_2": "NMT 0.5%"
+          },
+          {
+            "Protocol": "",
+            "column": "",
+            "column_1": "Unknown Impurity",
+            "Description": "",
+            "column_2": "NMT 0.2%"
+          },
+          {
+            "Protocol": "",
+            "column": "",
+            "column_1": "Total Unknown Impurities",
+            "Description": "",
+            "column_2": "NMT 1.0%"
+          },
+          {
+            "Protocol": "7.",
+            "column": "",
+            "column_1": "Microbial Limit Test",
+            "Description": "",
+            "column_2": ""
+          },
+          {
+            "Protocol": "",
+            "column": "",
+            "column_1": "Total Aerobic Microbial Count (TAMC)",
+            "Description": "",
+            "column_2": "NMT 1000 cfu/gm"
+          },
+          {
+            "Protocol": "",
+            "column": "",
+            "column_1": "Total Yeasts and Moulds Count (TYMC)",
+            "Description": "",
+            "column_2": "NMT 100 cfu/gm"
+          },
+          {
+            "Protocol": "",
+            "column": "",
+            "column_1": "Pathogens: a) Escherichia coli b) Salmonella c) S. aureus d) P. aeruginosa",
+            "Description": "",
+            "column_2": "absent/gm absent/10gm absent/gm absent/gm"
+          }
+        ]
+      }
+    }
+  ]
+}

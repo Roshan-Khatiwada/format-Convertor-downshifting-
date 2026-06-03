@@ -1,0 +1,176 @@
+{
+  "section_code": "p3.2",
+  "dossier_type": "product",
+  "_instruction": "Generate P3.2 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Batch Formula\nComposition\nEach film coated tablet contains",
+      "section_number": "P 3.2",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.2 Batch Formula\nComposition\nEach film coated tablet contains:",
+      "sn": 3,
+      "content": "Solifenacin Succinate BP       5 mg"
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.2 Batch Formula\nComposition\nEach film coated tablet contains:",
+      "sn": 4,
+      "content": "Excipients                                  q.s."
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.2 Batch Formula\nComposition\nEach film coated tablet contains:",
+      "sn": 5,
+      "content": "Qualitative & Quantitative Formula:"
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.2 Batch Formula\nComposition\nEach film coated tablet contains:",
+      "sn": 6,
+      "content": "Batch size: 1,20,000 Tablets"
+    },
+    {
+      "type": "table",
+      "section_title": "P 3.2 Batch Formula\nComposition\nEach film coated tablet contains:",
+      "sn": 7,
+      "content": {
+        "columns": [
+          "Ingredients",
+          "Specification",
+          "Quantity/ Tablet in mg",
+          "Qty./Batch in kg",
+          "Function"
+        ],
+        "rows": [
+          {
+            "Ingredients": "Dry mix",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Qty./Batch in kg": "",
+            "Function": ""
+          },
+          {
+            "Ingredients": "Solifenacin Succinate",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "5.00",
+            "Qty./Batch in kg": "*0.600",
+            "Function": "Active substance"
+          },
+          {
+            "Ingredients": "Lactose Monohydrate",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "102.50",
+            "Qty./Batch in kg": "12.300",
+            "Function": "Diluent"
+          },
+          {
+            "Ingredients": "Maize starch",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "40.00",
+            "Qty./Batch in kg": "#4.800",
+            "Function": "Diluent"
+          },
+          {
+            "Ingredients": "Binder",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Qty./Batch in kg": "",
+            "Function": ""
+          },
+          {
+            "Ingredients": "Hypromellose",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "1.00",
+            "Qty./Batch in kg": "0.120",
+            "Function": "Binder"
+          },
+          {
+            "Ingredients": "Purified water",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "q.s.",
+            "Qty./Batch in kg": "@2.458",
+            "Function": "Solvent"
+          },
+          {
+            "Ingredients": "Lubrication",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Qty./Batch in kg": "",
+            "Function": ""
+          },
+          {
+            "Ingredients": "Magnesium Stearate",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "1.50",
+            "Qty./Batch in kg": "0.180",
+            "Function": "Lubricant"
+          },
+          {
+            "Ingredients": "Core Tablet Weight",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "150.00 mg",
+            "Qty./Batch in kg": "18.000 kg",
+            "Function": ""
+          },
+          {
+            "Ingredients": "Film Coating",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Qty./Batch in kg": "",
+            "Function": ""
+          },
+          {
+            "Ingredients": "Readycoat Iron Oxide Yellow 36FO193220",
+            "Specification": "IH",
+            "Quantity/ Tablet in mg": "3.00",
+            "Qty./Batch in kg": "**0.468",
+            "Function": "Film former"
+          },
+          {
+            "Ingredients": "Purified Water",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "q.s.",
+            "Qty./Batch in kg": "@4.212",
+            "Function": "Solvent"
+          },
+          {
+            "Ingredients": "Total Tablet Weight (Coated)",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "153.00 mg",
+            "Qty./Batch in kg": "",
+            "Function": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.2 Batch Formula\nComposition\nEach film coated tablet contains:",
+      "sn": 8,
+      "content": "Note:\n* Actual quantity of Solifenacin Succinate to be calculated on the basis of Assay (dried basis)\nand  % LOD.\n# Compensation will be with corn starch in actual batch.\n**30% extra qty. to avoid the loss during coating\n@Quantity not remains in final product.\nWhere as:\nBP: British Pharmacopoeia\nIH: In House"
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.2 Batch Formula\nComposition\nEach film coated tablet contains:",
+      "sn": 9,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 3.2 Batch Formula\nComposition\nEach film coated tablet contains:",
+      "sn": 10,
+      "content": "Page 1"
+    }
+  ]
+}

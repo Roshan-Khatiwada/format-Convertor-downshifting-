@@ -1,0 +1,4 @@
+SECTION: P 3.3 — CONTROL OF CRITICAL STEPS AND INTERMEDIATES (one PDF)
+
+SCOPE: Critical steps/intermediates tests and criteria *.
+SOURCE: technical_intelligence.p3.3.

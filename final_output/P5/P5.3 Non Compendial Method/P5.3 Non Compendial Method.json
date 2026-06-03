@@ -1,0 +1,22 @@
+{
+  "section_code": "p5.3",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 5.3 Non Compendial Method validation (one PDF).",
+  "components": [
+    {
+      "section_code": "P 5.3",
+      "type": "section_header",
+      "title": "VALIDATION OF ANALYTICAL PROCEDURES",
+      "section_number": "P 5.3",
+      "section_title": "VALIDATION OF ANALYTICAL PROCEDURES"
+    },
+    {
+      "section_code": "non_compendial",
+      "type": "text",
+      "title": "Non Compendial Method",
+      "prompt": "ESSENCE: Validation of non-compendial analytical methods for finished product. CONTRACT: Summary of validation parameters (specificity, linearity, accuracy, precision, range, robustness) per method from source.",
+      "section_number": "a",
+      "section_title": "Non Compendial Method"
+    }
+  ]
+}

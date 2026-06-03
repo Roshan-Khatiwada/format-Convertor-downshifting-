@@ -1,0 +1,31 @@
+{
+  "section_code": "p3.4",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 3.4 Process validation and/or evaluation * (one PDF).",
+  "components": [
+    {
+      "section_code": "P 3.4",
+      "type": "section_header",
+      "title": "PROCESS VALIDATION AND / OR EVALUATION",
+      "section_number": "P 3.4",
+      "section_title": "PROCESS VALIDATION AND / OR EVALUATION"
+    },
+    {
+      "section_code": "validation",
+      "type": "text",
+      "title": "Process validation and evaluation",
+      "prompt": "ESSENCE: Description, documentation, and results of validation/evaluation studies for critical steps or critical assays. CONTRACT: Summary narrative; reference batch numbers and conclusions from source.",
+      "section_number": "a",
+      "section_title": "Process validation and evaluation"
+    },
+    {
+      "section_code": "validation_summary",
+      "type": "table",
+      "columns": ["Study / critical step", "Batches", "Result / conclusion"],
+      "title": "Validation study summary",
+      "prompt": "ESSENCE: Tabulated validation batches/studies when present. Columns: Study/step, Batches, Result/conclusion.",
+      "section_number": "b",
+      "section_title": "Validation study summary"
+    }
+  ]
+}

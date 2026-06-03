@@ -1,0 +1,170 @@
+{
+  "section_code": "p1.4",
+  "dossier_type": "product",
+  "_instruction": "Drug Product Composition — name, quantity (metric), function, quality. Table g: category_header + sub_tests grouping mandatory.",
+  "components": [
+    {
+      "section_code": "P 1.2",
+      "type": "section_header",
+      "title": "COMPOSITION",
+      "section_number": "P 1.2",
+      "section_title": "COMPOSITION"
+    },
+    {
+      "section_code": "composition_summary",
+      "type": "table",
+      "table_mode": "grid",
+      "columns": [
+        "Label",
+        "Value"
+      ],
+      "title": "Composition summary",
+      "prompt": "ESSENCE: Short composition summary (Label/Value grid). Product name, Each ... contains, API strength, Excipients q.s. No full formula.",
+      "example": "{\"columns\": [\"Label\", \"Value\"], \"rows\": [{\"Label\": \"Product Name\", \"Value\": \"[from source]\"}, {\"Label\": \"Each hard gelatin capsule contains:\", \"Value\": \"\"}, {\"Label\": \"[API]\", \"Value\": \"[strength]\"}, {\"Label\": \"Excipients\", \"Value\": \"q.s.\"}]}",
+      "section_number": "a",
+      "section_title": "Composition summary",
+      "content": {
+        "columns": [
+          "Label",
+          "Value"
+        ],
+        "rows": [
+          {
+            "Label": "Product Name",
+            "Value": "Product Name: Solifenacin Succinate Tablets BP 5 mg"
+          },
+          {
+            "Label": "Each Film coated tablet contains:",
+            "Value": ""
+          },
+          {
+            "Label": "Active ingredient",
+            "Value": "Solifenacin Succinate BP       5 mg"
+          },
+          {
+            "Label": "Excipients",
+            "Value": "Excipients                                  q.s."
+          }
+        ]
+      }
+    },
+    {
+      "section_code": "unit_formula",
+      "type": "table",
+      "columns": [
+        "Ingredients",
+        "Specifications",
+        "Qty. / Capsule in mg",
+        "Function"
+      ],
+      "title": "Name and quantity stated in metric weight or measures, function and quality",
+      "prompt": "ESSENCE: Full unit formula — each ingredient with metric quantity, pharmacopoeial/quality standard (Specifications), and function. CONTRACT: Top-level rows array only. MANDATORY GROUPING — each process stage is exactly ONE parent row: empty Ingredients/Specifications/Qty/Function strings, category_header = stage name, sub_tests = array of ingredient child rows. Required category_header blocks in order: Dry mix → Binder Preparation → Prelubrication → Lubrication. Then ONE standalone row: Ingredients='Total Fill Weight', Qty = fill material total mg. Then category_header Capsule Shell with sub_tests (shell composition, size, colour). Last standalone row: Total Capsule Weight (filled). FORBIDDEN: flat ingredient list without category_header parents. Child rows use keys: Ingredients, Specifications, Qty. / Capsule in mg, Function.",
+      "example": "{\"columns\": [\"Ingredients\", \"Specifications\", \"Qty. / Capsule in mg\", \"Function\"], \"rows\": [{\"Ingredients\": \"\", \"Specifications\": \"\", \"Qty. / Capsule in mg\": \"\", \"Function\": \"\", \"category_header\": \"Dry mix\", \"sub_tests\": [{\"Ingredients\": \"Apixaban\", \"Specifications\": \"IH\", \"Qty. / Capsule in mg\": \"2.50\", \"Function\": \"Active substance\"}]}]}",
+      "section_number": "b",
+      "section_title": "Qualitative and quantitative composition",
+      "content": {
+        "columns": [
+          "Ingredients",
+          "Specification",
+          "Quantity/ Tablet in mg",
+          "Functions"
+        ],
+        "rows": [
+          {
+            "Ingredients": "Dry mix",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Functions": ""
+          },
+          {
+            "Ingredients": "Solifenacin Succinate",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "5.00",
+            "Functions": "Active substance"
+          },
+          {
+            "Ingredients": "Lactose Monohydrate",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "102.50",
+            "Functions": "Diluent"
+          },
+          {
+            "Ingredients": "Maize starch",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "40.00",
+            "Functions": "Diluent"
+          },
+          {
+            "Ingredients": "Binder",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Functions": ""
+          },
+          {
+            "Ingredients": "Hypromellose",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "1.00",
+            "Functions": "Binder"
+          },
+          {
+            "Ingredients": "Purified water",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "q.s.",
+            "Functions": "Solvent"
+          },
+          {
+            "Ingredients": "Lubrication",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Functions": ""
+          },
+          {
+            "Ingredients": "Magnesium Stearate",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "1.50",
+            "Functions": "Lubricant"
+          },
+          {
+            "Ingredients": "Core Tablet Weight",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "150.00 mg",
+            "Functions": ""
+          },
+          {
+            "Ingredients": "Film Coating",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "",
+            "Functions": ""
+          },
+          {
+            "Ingredients": "Readycoat Iron Oxide Yellow 36FO193220",
+            "Specification": "IH",
+            "Quantity/ Tablet in mg": "3.00",
+            "Functions": "Film former"
+          },
+          {
+            "Ingredients": "Purified Water",
+            "Specification": "BP",
+            "Quantity/ Tablet in mg": "q.s.",
+            "Functions": "Solvent"
+          },
+          {
+            "Ingredients": "Total Tablet Weight (Coated)",
+            "Specification": "",
+            "Quantity/ Tablet in mg": "153.00 mg",
+            "Functions": ""
+          }
+        ]
+      }
+    },
+    {
+      "section_code": "abbreviations",
+      "type": "text",
+      "title": "Abbreviations",
+      "prompt": "ESSENCE: Expansions for pharmacopoeial and in-house abbreviations used in the composition table (e.g. BP, IH, q.s.).",
+      "section_number": "c",
+      "section_title": "Abbreviations",
+      "content": "Where as:\nBP: British Pharmacopoeia\nIH: In House"
+    }
+  ]
+}

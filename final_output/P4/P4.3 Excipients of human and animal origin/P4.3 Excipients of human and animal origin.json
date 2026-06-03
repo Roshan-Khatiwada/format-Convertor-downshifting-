@@ -1,0 +1,22 @@
+{
+  "section_code": "p4.3",
+  "dossier_type": "product",
+  "_instruction": "Myanmar FDA — P 4.3 Excipients of human and animal origin.",
+  "components": [
+    {
+      "section_code": "P 4.3",
+      "type": "section_header",
+      "title": "EXCIPIENTS OF HUMAN AND ANIMAL ORIGIN",
+      "section_number": "P 4.3",
+      "section_title": "EXCIPIENTS OF HUMAN AND ANIMAL ORIGIN"
+    },
+    {
+      "section_code": "origin_statement",
+      "type": "text",
+      "title": "Excipients of human and animal origin",
+      "prompt": "ESSENCE: Declare if any excipients are derived from human or animal sources. CONTRACT: Use explicit source statement only. If none, output exactly 'Not Applicable.' If source explicitly identifies human/animal-derived excipients, list only those materials. PRESENTATION: Plain text (1-2 lines max).",
+      "section_number": "a",
+      "section_title": "Excipients of human and animal origin"
+    }
+  ]
+}

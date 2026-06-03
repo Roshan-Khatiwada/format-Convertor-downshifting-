@@ -1,0 +1,50 @@
+{
+  "section_code": "p3.1",
+  "dossier_type": "product",
+  "_instruction": "Generate P3.1 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Manufacture",
+      "section_number": "P 3",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "text",
+      "section_title": "P 3 Manufacture",
+      "sn": 3,
+      "content": "P.3.1 Manufacturer\nLeben Life Sciences Pvt. Ltd."
+    },
+    {
+      "type": "text",
+      "section_title": "P 3 Manufacture",
+      "sn": 4,
+      "content": "Plot No. C-20/1 & C-21, Phase-III, MIDC,"
+    },
+    {
+      "type": "text",
+      "section_title": "P 3 Manufacture",
+      "sn": 5,
+      "content": "Akola-444104, Maharashtra, India."
+    },
+    {
+      "type": "text",
+      "section_title": "P 3 Manufacture",
+      "sn": 6,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 3 Manufacture",
+      "sn": 7,
+      "content": "Page 1"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "section_code": "p7",
+  "dossier_type": "product",
+  "_instruction": "Generate P7 content from the SECTION DATA below. This is a product dossier section. Preserve all tables, figures, and structured content. Do not summarize or omit any data.",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "section_header",
+      "section_title": "Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows",
+      "section_number": "P 7",
+      "sn": 2,
+      "content": null
+    },
+    {
+      "type": "table",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 3,
+      "content": {
+        "columns": [
+          "a) Primary Packing : ALU/ALU blister pack of 10 Tablets.",
+          "column"
+        ],
+        "rows": [
+          {
+            "a) Primary Packing : ALU/ALU blister pack of 10 Tablets.": "b) Secondary Packing : Such 10 blisters is packed into a carton along with pack insert.",
+            "column": ""
+          },
+          {
+            "a) Primary Packing : ALU/ALU blister pack of 10 Tablets.": "The packing material specification of Solifenacin Succinate Tablets BP 5 mg is enclosed.",
+            "column": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 4,
+      "content": {
+        "columns": [
+          "S.no",
+          "Packing Material"
+        ],
+        "rows": [
+          {
+            "S.no": "1",
+            "Packing Material": "Aluminium Foil"
+          },
+          {
+            "S.no": "2",
+            "Packing Material": "Base Foil"
+          },
+          {
+            "S.no": "3",
+            "Packing Material": "Carton"
+          },
+          {
+            "S.no": "4",
+            "Packing Material": "Pack Insert"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 5,
+      "content": "S.no\nPacking Material"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 6,
+      "content": "1\nAluminium Foil"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 7,
+      "content": "2\nBase Foil"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 8,
+      "content": "3\nCarton"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 9,
+      "content": "4\nPack Insert"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 10,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 11,
+      "content": "Page 1"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 12,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 13,
+      "content": "The packing material Standard Test Procedure of Solifenacin Succinate Tablets BP 5 mg are"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 14,
+      "content": "enclosed."
+    },
+    {
+      "type": "table",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 15,
+      "content": {
+        "columns": [
+          "S.no",
+          "Packing Material"
+        ],
+        "rows": [
+          {
+            "S.no": "1",
+            "Packing Material": "Aluminium Foil"
+          },
+          {
+            "S.no": "2",
+            "Packing Material": "Base Foil"
+          },
+          {
+            "S.no": "3",
+            "Packing Material": "Carton"
+          },
+          {
+            "S.no": "4",
+            "Packing Material": "Pack Insert"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 16,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 17,
+      "content": "Page 2"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 18,
+      "content": "Leben Life Sciences Pvt. Ltd.\nProduct Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 19,
+      "content": "The packing material Certificate of analysis of Solifenacin Succinate Tablets BP 5 mg are"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 20,
+      "content": "enclosed."
+    },
+    {
+      "type": "table",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 21,
+      "content": {
+        "columns": [
+          "S.no",
+          "Packing Material"
+        ],
+        "rows": [
+          {
+            "S.no": "1",
+            "Packing Material": "Aluminium Foil"
+          },
+          {
+            "S.no": "2",
+            "Packing Material": "Base Foil"
+          },
+          {
+            "S.no": "3",
+            "Packing Material": "Carton"
+          },
+          {
+            "S.no": "4",
+            "Packing Material": "Pack Insert"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 22,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": "P 7 Container Closure System\nThe packing material used for Solifenacin Succinate Tablets BP 5 mg is as follows:",
+      "sn": 23,
+      "content": "Page 3"
+    }
+  ]
+}

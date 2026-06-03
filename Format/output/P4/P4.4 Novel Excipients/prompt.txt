@@ -1,0 +1,10 @@
+SECTION: P 4.4 Novel Excipients
+
+OUTPUT CONTRACT
+- Root: {"components":[...]} in exact format.json order.
+- text → content (string).
+
+STRICT RULES
+- Only state what source explicitly says.
+- Do not treat standard pharmacopoeial excipients as novel.
+- Typically "Not Applicable" for standard formulations.
